@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News - The Innovator Jr.</title>
+    <meta name="description" content="Latest news and updates from The Innovator Jr. student publication.">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-brand">
+                <a href="index.html">
+                    <h1>The Innovator Jr.</h1>
+                    <span class="tagline">Our Voices Shall Unite</span>
+                </a>
+            </div>
+            
+            <div class="nav-menu" id="nav-menu">
+                <a href="index.html" class="nav-link">Home</a>
+                <a href="news.html" class="nav-link active">News</a>
+                <a href="editorial.html" class="nav-link">Editorial</a>
+                <a href="features.html" class="nav-link">Features</a>
+                <a href="sci-tech.html" class="nav-link">Sci-Tech</a>
+                <a href="sports.html" class="nav-link">Sports</a>
+                <a href="issues.html" class="nav-link">Issues</a>
+                <a href="broadcasting.html" class="nav-link">Broadcasting</a>
+            </div>
+
+            <div class="nav-actions">
+                <div class="search-container">
+                    <input type="text" id="search-input" placeholder="Search articles...">
+                    <i class="fas fa-search search-icon"></i>
+                </div>
+                <a href="join.html" class="btn btn-primary">Join Us</a>
+                <div class="hamburger" id="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="container">
+            <h1>News</h1>
+            <p>Stay informed with the latest campus and community news</p>
+        </div>
+    </section>
+
+    <!-- News Articles -->
+    <section class="news-section">
+        <div class="container">
+            <div class="articles-grid">
+                <!-- Breaking News -->
+                <article class="article-card featured">
+                    <div class="card-image">
+                        <img src="/placeholder.svg?height=300&width=500" alt="Breaking News">
+                        <div class="card-category breaking">Breaking</div>
+                    </div>
+                    <div class="card-content">
+                        <h2><a href="articles/student-innovation-summit-2024.html">Student Innovation Summit 2024: Record Breaking Attendance</a></h2>
+                        <p class="card-meta">
+                            <span class="author">By Maria Santos</span>
+                            <span class="date">December 6, 2024</span>
+                        </p>
+                        <p class="card-excerpt">Over 500 students from 15 schools participated in this year's innovation summit, showcasing groundbreaking projects in technology, sustainability, and social impact.</p>
+                    </div>
+                </article>
+
+                <!-- Regular News Articles -->
+                <article class="article-card">
+                    <div class="card-image">
+                        <img src="/placeholder.svg?height=250&width=400" alt="Climate Initiative">
+                        <div class="card-category">Campus</div>
+                    </div>
+                    <div class="card-content">
+                        <h3><a href="articles/climate-action-initiative.html">Campus Climate Action Initiative Launches</a></h3>
+                        <p class="card-meta">
+                            <span class="author">By Alex Chen</span>
+                            <span class="date">December 5, 2024</span>
+                        </p>
+                        <p class="card-excerpt">Students launch comprehensive sustainability program aimed at reducing campus carbon footprint by 50% within two years.</p>
+                    </div>
+                </article>
+
+                <article class="article-card">
+                    <div class="card-image">
+                        <img src="/placeholder.svg?height=250&width=400" alt="New Library">
+                        <div class="card-category">Campus</div>
+                    </div>
+                    <div class="card-content">
+                        <h3><a href="articles/new-library-opening.html">State-of-the-Art Library Opens Next Month</a></h3>
+                        <p class="card-meta">
+                            <span class="author">By Sarah Johnson</span>
+                            <span class="date">December 4, 2024</span>
+                        </p>
+                        <p class="card-excerpt">The new $2.5 million library facility features collaborative spaces, advanced technology, and sustainable design elements.</p>
+                    </div>
+                </article>
+
+                <article class="article-card">
+                    <div class="card-image">
+                        <img src="/placeholder.svg?height=250&width=400" alt="Student Government">
+                        <div class="card-category">Politics</div>
+                    </div>
+                    <div class="card-content">
+                        <h3><a href="articles/student-government-elections.html">Student Government Elections See Record Turnout</a></h3>
+                        <p class="card-meta">
+                            <span class="author">By Michael Torres</span>
+                            <span class="date">December 3, 2024</span>
+                        </p>
+                        <p class="card-excerpt">85% of eligible students participated in this year's elections, the highest turnout in school history.</p>
+                    </div>
+                </article>
+
+                <article class="article-card">
+                    <div class="card-image">
+                        <img src="/placeholder.svg?height=250&width=400" alt="Community Service">
+                        <div class="card-category">Community</div>
+                    </div>
+                    <div class="card-content">
+                        <h3><a href="articles/community-service-week.html">Community Service Week Makes Impact</a></h3>
+                        <p class="card-meta">
+                            <span class="author">By Emma Rodriguez</span>
+                            <span class="date">December 2, 2024</span>
+                        </p>
+                        <p class="card-excerpt">Students contributed over 1,000 volunteer hours to local organizations during the annual Community Service Week.</p>
+                    </div>
+                </article>
+
+                <article class="article-card">
+                    <div class="card-image">
+                        <img src="/placeholder.svg?height=250&width=400" alt="Academic Achievement">
+                        <div class="card-category">Academic</div>
+                    </div>
+                    <div class="card-content">
+                        <h3><a href="articles/academic-excellence-awards.html">Academic Excellence Awards Ceremony</a></h3>
+                        <p class="card-meta">
+                            <span class="author">By David Kim</span>
+                            <span class="date">December 1, 2024</span>
+                        </p>
+                        <p class="card-excerpt">Outstanding students recognized for their academic achievements and contributions to school community.</p>
+                    </div>
+                </article>
+            </div>
+
+            <div class="load-more">
+                <button class="btn btn-outline" id="load-more-btn">Load More News</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Newsletter Section -->
+    <section class="newsletter">
+        <div class="container">
+            <div class="newsletter-content">
+                <h2>Stay Updated</h2>
+                <p>Get the latest news delivered straight to your inbox.</p>
+                <form class="newsletter-form" id="newsletter-form">
+                    <input type="email" id="newsletter-email" placeholder="Enter your email address" required>
+                    <button type="submit" class="btn btn-primary">Subscribe</button>
+                </form>
+                <div class="newsletter-message" id="newsletter-message"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <div class="footer-brand">
+                        <h3>The Innovator Jr.</h3>
+                        <p>Our Voices Shall Unite</p>
+                        <p>Empowering student voices through quality journalism and storytelling.</p>
+                    </div>
+                </div>
+
+                <div class="footer-section">
+                    <h4>Sections</h4>
+                    <ul>
+                        <li><a href="news.html">News</a></li>
+                        <li><a href="editorial.html">Editorial</a></li>
+                        <li><a href="features.html">Features</a></li>
+                        <li><a href="sci-tech.html">Sci-Tech</a></li>
+                        <li><a href="sports.html">Sports</a></li>
+                        <li><a href="issues.html">Issues</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-section">
+                    <h4>Get Involved</h4>
+                    <ul>
+                        <li><a href="join.html">Join Our Team</a></li>
+                        <li><a href="broadcasting.html">Broadcasting</a></li>
+                        <li><a href="#contact">Contact Us</a></li>
+                        <li><a href="#submit">Submit a Story</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-section">
+                    <h4>Follow Us</h4>
+                    <div class="social-links">
+                        <a href="#" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
+                        <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+                        <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                        <a href="#" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+                    </div>
+                    <div class="contact-info">
+                        <p><i class="fas fa-envelope"></i> editor@innovatorjr.com</p>
+                        <p><i class="fas fa-phone"></i> (555) 123-4567</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p>&copy; 2024 The Innovator Jr. All rights reserved.</p>
+                <div class="footer-links">
+                    <a href="#privacy">Privacy Policy</a>
+                    <a href="#terms">Terms of Service</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="assets/js/main.js"></script>
+</body>
+</html>

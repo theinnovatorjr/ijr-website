@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Innovator Jr.</title>
+    <link rel="icon" href="assets/logo/ijr-logo.png" type="image/x-icon">
+    <meta name="description"
+        content="The official student publication bringing you the latest news, features, and stories that matter to our community.">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <!-- Logo -->
+                <div class="logo">
+                    <a href="index.html">
+                        <div class="logo-icon"><img src="assets/logo/ijr-logo.png" alt="IJR Logo"></div>
+                        <span class="logo-text">The Innovator Jr.</span>
+                    </a>
+                </div>
+
+                <!-- Navigation -->
+                <nav class="main-nav">
+                    <ul class="nav-list">
+                        <li>
+                            <a href="index.html" class="nav-link active">Home</a>
+                        </li>
+                        <li class="nav-item has-dropdown">
+                            <a href="#" class="nav-link">
+                                Articles
+                                <i class="fas fa-chevron-down dropdown-icon"></i>
+                            </a>
+                            <div class="dropdown-menu">
+                                <div class="dropdown-grid">
+                                    <a href="news.html" class="dropdown-item">
+                                        <h4>News</h4>
+                                        <p>Latest campus and community updates</p>
+                                    </a>
+                                    <a href="editorial.html" class="dropdown-item">
+                                        <h4>Editorial</h4>
+                                        <p>Opinion pieces and commentary</p>
+                                    </a>
+                                    <a href="features.html" class="dropdown-item">
+                                        <h4>Features</h4>
+                                        <p>In-depth stories and profiles</p>
+                                    </a>
+                                    <a href="literary.html" class="dropdown-item">
+                                        <h4>Literary</h4>
+                                        <p>Creative writing and literature</p>
+                                    </a>
+                                    <a href="sci-tech.html" class="dropdown-item">
+                                        <h4>Sci-Tech</h4>
+                                        <p>Science and technology coverage</p>
+                                    </a>
+                                    <a href="sports.html" class="dropdown-item">
+                                        <h4>Sports</h4>
+                                        <p>Sports news and coverage</p>
+                                    </a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="nav-item has-dropdown">
+                            <a href="#" class="nav-link">
+                                Broadcasting
+                                <i class="fas fa-chevron-down dropdown-icon"></i>
+                            </a>
+                            <div class="dropdown-menu">
+                                <div class="dropdown-grid">
+                                    <a href="broadcasting/innovision.html" class="dropdown-item">
+                                        <h4>Innovision</h4>
+                                        <p>Video documentaries and visual stories</p>
+                                    </a>
+                                    <a href="broadcasting/innoviews.html" class="dropdown-item">
+                                        <h4>Innoviews</h4>
+                                        <p>Interviews and discussions</p>
+                                    </a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="nav-item has-dropdown">
+                            <a href="#" class="nav-link">
+                                Publishing
+                                <i class="fas fa-chevron-down dropdown-icon"></i>
+                            </a>
+                            <div class="dropdown-menu">
+                                <div class="dropdown-grid">
+                                    <a href="publishing/e-mag.html" class="dropdown-item">
+                                        <h4>E-Magazine</h4>
+                                        <p>Digital magazine editions</p>
+                                    </a>
+                                    <a href="publishing/newspaper.html" class="dropdown-item">
+                                        <h4>Newspaper</h4>
+                                        <p>Print edition archives</p>
+                                    </a>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="about.html" class="nav-link">About</a>
+                        </li>
+                    </ul>
+                </nav>
+
+                <!-- Header Actions -->
+                <div class="header-actions">
+                    <a href="https://facebook.com/FEUDilimanIJR/" class="social-icon" aria-label="Facebook"
+                        target="_blank">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <a href="https://instagram.com/innovatorjr/" class="social-icon" aria-label="Instagram"
+                        target="_blank">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                    <button class="search-btn" aria-label="Search">
+                        <i class="fas fa-search"></i>
+                    </button>
+                    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">
+                        <i class="fas fa-sun"></i>
+                    </button>
+                    <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="Toggle menu">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobile-menu">
+        <div class="mobile-menu-content">
+            <nav class="mobile-nav">
+                <ul>
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li class="mobile-dropdown">
+                        <button class="mobile-dropdown-btn" aria-expanded="false">
+                            Articles
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <ul class="mobile-dropdown-menu" aria-hidden="true">
+                            <li>
+                                <a href="news.html">News</a>
+                            </li>
+                            <li>
+                                <a href="editorial.html">Editorial</a>
+                            </li>
+                            <li>
+                                <a href="features.html">Features</a>
+                            </li>
+                            <li>
+                                <a href="literary.html">Literary</a>
+                            </li>
+                            <li>
+                                <a href="sci-tech.html">Sci-Tech</a>
+                            </li>
+                            <li>
+                                <a href="sports.html">Sports</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="mobile-dropdown">
+                        <button class="mobile-dropdown-btn" aria-expanded="false">
+                            Broadcasting
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <ul class="mobile-dropdown-menu" aria-hidden="true">
+                            <li>
+                                <a href="broadcasting/innovision.html">Innovision</a>
+                            </li>
+                            <li>
+                                <a href="broadcasting/innoviews.html">Innoviews</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="mobile-dropdown">
+                        <button class="mobile-dropdown-btn" aria-expanded="false">
+                            Publishing
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <ul class="mobile-dropdown-menu" aria-hidden="true">
+                            <li>
+                                <a href="publishing/e-mag.html">E-Magazine</a>
+                            </li>
+                            <li>
+                                <a href="publishing/newspaper.html">Newspaper</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="about.html">About</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+    <!-- Hero Section -->
+    <main>
+        <section class="hero">
+            <div class="container">
+                <div class="hero-content">
+                    <h1>THE INNOVATOR JR.</h1>
+                    <h2>Our Voice Shall Unite</h2>
+                    <p><br>The official student publication of <b>Far Eastern University - Diliman</b></p>
+                    <div class="hero-buttons">
+                        <a href="news.html" class="btn btn-primary">
+                            Read Latest Articles
+                            <i class="fas fa-arrow-right"></i>
+                        </a>
+                        <a href="about.html" class="btn btn-outline">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Featured Articles Section -->
+        <section class="featured-articles">
+            <div class="container">
+                <div class="section-header">
+                    <h2>Latest Stories</h2>
+                    <p>Stay updated with our <b>most recent articles and features</b></p>
+                </div>
+
+                <div class="articles-grid">
+                    <!-- Featured Article -->
+                    <article class="article-card featured">
+                        <div class="article-image">
+                            <img src="public/AGHIMUAN.png" alt="Newspaper">
+                            <div class="article-tag">PUBLICATION</div>
+                        </div>
+                        <div class="article-content">
+                            <h3><a href="articles/innovation-summit.html">The Innovator Jr.'s Newspaper</a></h3>
+                            <p>Issue 1 Volume 1 | The official newspaper of the Innovator Jr. for S.Y. 2024-2025.<br> Access the full issue by clicking this section. </p>
+                            <div class="article-meta">
+                                <span class="author">by IJR Editorial Board</span>
+                                <span class="date">June 10, 2025</span>
+                                <span class="read-time"></span>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- Regular Articles -->
+                    <article class="article-card">
+                        <div class="article-image">
+                            <img src="public/Eid al-adha.jpg" alt="Climate Action">
+                            <div class="article-tag">Feature</div>
+                        </div>
+                        <div class="article-content">
+                            <h3><a href="articles/climate-action.html">Silence Meets Faith</a>
+                            </h3>
+                            <p>What if you were asked to give up something you love most—without explanation, just faith? Discover the quiet power and
+                            deep meaning of Eid al-Adha, a sacred day marked not by noise, but by silent obedience, reflection, and unseen
+                            sacrifice.<br></p>
+                            <div class="article-meta">
+                                <span class="author">by Ciree Carillo</span>
+                                <span class="date">June 6, 2025</span>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="article-card">
+                        <div class="article-image">
+                            <img src="public/HSSCC-Halalan.jpg" alt="Halalan 2025">
+                            <div class="article-tag">News</div>
+                        </div>
+                        <div class="article-content">
+                            <h3><a href="articles/digital-learning.html">FEU-D HS students head to polls for TAMHalalan 2025</a></h3>
+                            <p>Hundreds of FEU Diliman Junior High School and Grade 11 students cast their ballots for TAMHalalan 2025...</p>
+                            <div class="article-meta">
+                                <span class="author">by Seleeya Rumbaoa</span>
+                                <span class="date">May 5, 2024</span>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="article-card">
+                        <div class="article-image">
+                            <img src="public/Halalan.png" alt="Halalan 2025">
+                            <div class="article-tag">Editorial</div>
+                        </div>
+                        <div class="article-content">
+                            <h3><a href="articles/digital-learning.html">Halalan o Hangalan?</a></h3>
+                            <p>Exploring how technology is reshaping education for the next generation of learners.</p>
+                            <div class="article-meta">
+                                <span class="author">ni Jamie Anne Manejero</span>
+                                <span class="date">May 5, 2024</span>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="article-card">
+                        <div class="article-image">
+                            <img src="public/Mothers-day.jpg" alt="AI Research">
+                            <div class="article-tag">Sci-Tech</div>
+                        </div>
+                        <div class="article-content">
+                            <h3><a href="articles/ai-research.html">Ganda ni pj</a></h3>
+                            <p>Sobrang sikip, sobrang sarap, sobrang latina</p>
+                            <div class="article-meta">
+                                <span class="author">By Kara dhavid masikip</span>
+                                <span class="date">Date: tara g!</span>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="article-card" href="articles/ai-research.html">
+                        <div class="article-image">
+                            <img src="public/Labor-day.jpg" alt="Mental Health">
+                            <div class="article-tag">Features</div>
+                        </div>
+                        <div class="article-content">
+                            <h3><a>Ganda ni pj</a></h3>
+                            <p>Sobrang sikip, sobrang sarap, sobrang latina</p>
+                            <div class="article-meta">
+                                <span class="author">By Kara dhavid masikip</span>
+                                <span class="date">Date: tara g!</span>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+
+                <div class="load-more">
+                    <button class="btn btn-outline">Load More Articles</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Newsletter Section -->
+        <section class="newsletter">
+            <div class="container">
+                <div class="newsletter-content">
+                    <h2>Stay Updated</h2>
+                    <p>Get the latest stories delivered straight to your inbox</p>
+                    <form class="newsletter-form">
+                        <input type="email" placeholder="Enter your email address" required>
+                        <button type="submit" class="btn btn-primary">Subscribe</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <div class="logo">
+                        <div class="logo-icon"><img src="../assets/logo/ijr-logo.png" alt=""></div>
+                        <span class="logo-text">The Innovator Jr.</span>
+                    </div>
+                    <p>Our Voices Shall Unite <br>
+                        through ink and insights.
+                    </p>
+                    <div class="footer-social">
+                        <a href="https://www.facebook.com/FEUDilimanIJR/" aria-label="Facebook" target="_blank"><i
+                                class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/innovatorjr/" aria-label="Instagram" target="_blank"><i
+                                class="fab fa-instagram"></i></a>
+                        <a href="https://issuu.com/theinnovatorjr" aria-label="Issuu" target="_blank"><i> <svg>
+                                    <use href="./assets/icons/issuu.svg"></use>
+                                </svg> </i></a>
+                    </div>
+                </div>
+
+                <div class="footer-links">
+                    <div class="footer-column">
+                        <h4>Articles</h4>
+                        <ul>
+                            <li>
+                                <a href="news.html">News</a>
+                            </li>
+                            <li>
+                                <a href="editorial.html">Editorial</a>
+                            </li>
+                            <li>
+                                <a href="features.html">Features</a>
+                            </li>
+                            <li>
+                                <a href="sci-tech.html">Sci-Tech</a>
+                            </li>
+                            <li>
+                                <a href="sports.html">Sports</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="footer-links">
+                    <div class="footer-column">
+                        <h4>Media</h4>
+                        <ul>
+                            <li>
+                                <a href="broadcasting/innovision.html">Innovision</a>
+                            </li>
+                            <li>
+                                <a href="broadcasting/innoviews.html">Innoviews</a>
+                            </li>
+                            <li>
+                                <a href="publishing/e-mag.html">E-Magazine</a>
+                            </li>
+                            <li>
+                                <a href="publishing/newspaper.html">Newspaper</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="footer-links">
+                    <div class="footer-column">
+                        <h4>About</h4>
+                        <ul>
+                            <li>
+                                <a href="about.html">Our Story</a>
+                            </li>
+                            <li>
+                                <a href="team.html">Our Team</a>
+                            </li>
+                            <li>
+                                <a href="join.html">Join Us</a>
+                            </li>
+                            <li>
+                                <a href="contact.html">Contact</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+            <div class="footer-bottom">
+                <p>&copy; 2024 The Innovator Jr. All rights reserved.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>
