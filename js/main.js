@@ -168,7 +168,6 @@ document.addEventListener("DOMContentLoaded", () => {
           </div>
           <div class="article-content">
             <h3>${article.title}</h3>
-            <p>${article.summary}</p>
             <div class="article-meta">
               <span class="date">${article.date}</span>
               ${article.author ? `<span class="author">${article.author}</span>` : ''}
@@ -218,7 +217,6 @@ document.addEventListener("DOMContentLoaded", () => {
       if (searchQuery) {
         articlesToShow = articlesToShow.filter(a =>
           a.title.toLowerCase().includes(searchQuery) ||
-          a.summary.toLowerCase().includes(searchQuery) ||
           (a.author && a.author.toLowerCase().includes(searchQuery))
         );
       }
@@ -227,12 +225,6 @@ document.addEventListener("DOMContentLoaded", () => {
       const end = initialArticlesPerPage + (currentPage - 1) * articlesPerPage;
       const visibleArticles = articlesToShow.slice(start, end);
       articlesGrid.innerHTML = visibleArticles.map(article => {
-        // Limit summary to 30 words
-        let summary = article.summary || '';
-        const words = summary.split(/\s+/);
-        if (words.length > 30) {
-          summary = words.slice(0, 30).join(' ') + '...';
-        }
         return `
         <article class="article-card" data-id="${article.id}">
           <div class="article-image">
@@ -241,7 +233,6 @@ document.addEventListener("DOMContentLoaded", () => {
           </div>
           <div class="article-content">
             <h3>${article.title}</h3>
-            <p>${summary}</p>
             <div class="article-meta">
               <span class="date">${article.date}</span>
               ${article.author ? `<span class="author">${article.author}</span>` : ''}

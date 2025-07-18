@@ -48,14 +48,14 @@
 
 /* Dark mode variables */
 [data-theme="dark"] {
-  --text-dark: #1f2937;
+  --text-dark: #f3f4f6;
   --text-light: #ffffff;
-  --text-muted: #6b7280;
-  --text-lighter: #9ca3af;
-  --bg-white: #ffffff;
-  --bg-gray: #f9fafb;
+  --text-muted: #b0b3b8;
+  --text-lighter: #d1d5db;
+  --bg-white: #181a1b;
+  --bg-gray: #23272a;
   --bg-dark: #111827;
-  --border-light: #e5e7eb;
+  --border-light: #23272a;
   --border-dark: #374151;
 }
 
@@ -341,6 +341,25 @@ ol {
   display: flex;
   align-items: center;
   gap: var(--spacing-md);
+}
+
+.header-actions .search-input {
+  padding: 0.5rem 1.2rem;
+  border-radius: var(--radius-full);
+  border: 1px solid var(--border-light);
+  font-size: 1rem;
+  margin-right: var(--spacing-md);
+  background: var(--bg-gray);
+  color: var(--text-dark);
+  transition: border-color var(--transition-fast), background var(--transition-fast);
+  min-width: 180px;
+  max-width: 240px;
+}
+
+.header-actions .search-input:focus {
+  outline: none;
+  border-color: var(--primary-green);
+  background: var(--bg-white);
 }
 
 .social-icon,
@@ -1005,4 +1024,16 @@ ol {
 .article-card .article-content h3:hover,
 .article-card .article-content h3 a:hover {
   text-decoration: underline;
+}
+
+/* Publishing dropdown 2x2 grid */
+.dropdown-menu.modern-dropdown .dropdown-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: var(--spacing-md);
+}
+.dropdown-menu.modern-dropdown .dropdown-item {
+  min-width: 160px;
+  padding: var(--spacing-md);
 }
