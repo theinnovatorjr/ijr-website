@@ -1,29 +1,28 @@
 document.addEventListener("DOMContentLoaded", () => {
   // Theme Toggle
-  const themeToggle = document.getElementById("theme-toggle")
-  const themeIcon = themeToggle.querySelector("i")
+  const themeToggle = document.getElementById("theme-toggle");
+  const themeIcon = themeToggle ? themeToggle.querySelector("i") : null;
 
   // Check for saved theme preference or default to light mode
-  const currentTheme = localStorage.getItem("theme") || "light"
-  document.documentElement.setAttribute("data-theme", currentTheme)
+  const currentTheme = localStorage.getItem("theme") || "light";
+  document.documentElement.setAttribute("data-theme", currentTheme);
+  if (themeIcon) updateThemeIcon(currentTheme);
 
-  // Update icon based on current theme
-  updateThemeIcon(currentTheme)
-
-  themeToggle.addEventListener("click", () => {
-    const currentTheme = document.documentElement.getAttribute("data-theme")
-    const newTheme = currentTheme === "dark" ? "light" : "dark"
-
-    document.documentElement.setAttribute("data-theme", newTheme)
-    localStorage.setItem("theme", newTheme)
-    updateThemeIcon(newTheme)
-  })
-
+  if (themeToggle) {
+    themeToggle.addEventListener("click", () => {
+      const currentTheme = document.documentElement.getAttribute("data-theme");
+      const newTheme = currentTheme === "dark" ? "light" : "dark";
+      document.documentElement.setAttribute("data-theme", newTheme);
+      localStorage.setItem("theme", newTheme);
+      if (themeIcon) updateThemeIcon(newTheme);
+    });
+  }
   function updateThemeIcon(theme) {
+    if (!themeIcon) return;
     if (theme === "dark") {
-      themeIcon.className = "fas fa-sun"
+      themeIcon.className = "fas fa-sun";
     } else {
-      themeIcon.className = "fas fa-moon"
+      themeIcon.className = "fas fa-moon";
     }
   }
 
@@ -139,23 +138,151 @@ document.addEventListener("DOMContentLoaded", () => {
     observer.observe(card)
   })
 
-  // Search functionality (placeholder)
-  const searchBtn = document.querySelector(".search-btn")
+  // === Automated Article Publishing System ===
 
-  if (searchBtn) {
-    searchBtn.addEventListener("click", () => {
-      // Placeholder for search functionality
-      alert("Search functionality coming soon!")
-    })
-  }
+  if (window.articles) {
+    const initialArticlesPerPage = 3;
+    const articlesPerPage = 6;
+    let currentPage = 1;
+    let filteredTag = null;
+    let searchQuery = '';
 
-  // Load more articles functionality
-  const loadMoreBtn = document.querySelector(".load-more .btn")
+    const featuredContainer = document.getElementById('featured-article-container');
+    const articlesGrid = document.getElementById('articles-grid');
+    const tagFilter = document.getElementById('tag-filter');
+    const loadMoreBtn = document.getElementById('load-more-btn');
+    const searchInput = document.querySelector('.search-input');
 
-  if (loadMoreBtn) {
-    loadMoreBtn.addEventListener("click", () => {
-      // Placeholder for load more functionality
-      alert("Loading more articles...")
-    })
+    // Get all unique tags
+    const allTags = Array.from(new Set(window.articles.flatMap(a => a.tags)));
+
+    // Render featured article
+    function renderFeatured() {
+      if (!window.articles.length) return;
+      const article = window.articles[0];
+      featuredContainer.innerHTML = `
+        <article class="article-card featured" data-id="${article.id}">
+          <div class="article-image">
+            <img src="${article.image}" alt="${article.title}">
+            <div class="article-tag">${article.tags[0] || ''}</div>
+          </div>
+          <div class="article-content">
+            <h3>${article.title}</h3>
+            <p>${article.summary}</p>
+            <div class="article-meta">
+              <span class="date">${article.date}</span>
+              ${article.author ? `<span class="author">${article.author}</span>` : ''}
+            </div>
+          </div>
+        </article>
+      `;
+      // Make featured card clickable
+      featuredContainer.querySelector('.article-card').addEventListener('click', function() {
+        window.location.href = `pages/article.html?id=${article.id}`;
+      });
+    }
+
+    // Render tag filter buttons
+    function renderTagFilter() {
+      tagFilter.innerHTML = '';
+      const allBtn = document.createElement('button');
+      allBtn.textContent = 'All';
+      allBtn.className = 'tag-btn' + (filteredTag === null ? ' active' : '');
+      allBtn.onclick = () => {
+        filteredTag = null;
+        currentPage = 1;
+        renderArticles();
+        renderTagFilter();
+      };
+      tagFilter.appendChild(allBtn);
+      allTags.forEach(tag => {
+        const btn = document.createElement('button');
+        btn.textContent = tag;
+        btn.className = 'tag-btn' + (filteredTag === tag ? ' active' : '');
+        btn.onclick = () => {
+          filteredTag = tag;
+          currentPage = 1;
+          renderArticles();
+          renderTagFilter();
+        };
+        tagFilter.appendChild(btn);
+      });
+    }
+
+    // Render articles (excluding featured)
+    function renderArticles() {
+      let articlesToShow = window.articles.slice(1); // Exclude featured
+      if (filteredTag) {
+        articlesToShow = articlesToShow.filter(a => a.tags.includes(filteredTag));
+      }
+      if (searchQuery) {
+        articlesToShow = articlesToShow.filter(a =>
+          a.title.toLowerCase().includes(searchQuery) ||
+          a.summary.toLowerCase().includes(searchQuery) ||
+          (a.author && a.author.toLowerCase().includes(searchQuery))
+        );
+      }
+      // Show 3 on first load, then +6 each time
+      const start = 0;
+      const end = initialArticlesPerPage + (currentPage - 1) * articlesPerPage;
+      const visibleArticles = articlesToShow.slice(start, end);
+      articlesGrid.innerHTML = visibleArticles.map(article => {
+        // Limit summary to 30 words
+        let summary = article.summary || '';
+        const words = summary.split(/\s+/);
+        if (words.length > 30) {
+          summary = words.slice(0, 30).join(' ') + '...';
+        }
+        return `
+        <article class="article-card" data-id="${article.id}">
+          <div class="article-image">
+            <img src="${article.image}" alt="${article.title}">
+            <div class="article-tag">${article.tags[0] || ''}</div>
+          </div>
+          <div class="article-content">
+            <h3>${article.title}</h3>
+            <p>${summary}</p>
+            <div class="article-meta">
+              <span class="date">${article.date}</span>
+              ${article.author ? `<span class="author">${article.author}</span>` : ''}
+            </div>
+          </div>
+        </article>
+      `;
+      }).join('');
+      // Make cards clickable
+      articlesGrid.querySelectorAll('.article-card').forEach(card => {
+        card.addEventListener('click', function() {
+          const id = this.getAttribute('data-id');
+          window.location.href = `pages/article.html?id=${id}`;
+        });
+      });
+      // Show/hide load more
+      if (articlesToShow.length > visibleArticles.length) {
+        loadMoreBtn.style.display = '';
+      } else {
+        loadMoreBtn.style.display = 'none';
+      }
+    }
+
+    // Load more handler (loads 6 more each time)
+    loadMoreBtn.addEventListener('click', () => {
+      currentPage++;
+      renderArticles();
+    });
+
+    // Search functionality
+    if (searchInput) {
+      searchInput.addEventListener('input', function() {
+        searchQuery = this.value.toLowerCase();
+        currentPage = 1;
+        renderArticles();
+      });
+    }
+
+    // Initial render
+    renderFeatured();
+    renderTagFilter();
+    renderArticles();
   }
 })
