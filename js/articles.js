@@ -8,9 +8,8 @@ const articles = [
     author: "[Your Name]",
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
-  
   {
-    id: 2,
+    id: 10,
     title: "A LEGACY PENNED IN INK",
     date: "2025-07-09",
     image: "public/Legacy.jpg",
@@ -30,7 +29,7 @@ The pen remains in steady hands. History, it seems, has found new authors.
 </p>`
   },
   {
-    id: 3,
+    id: 9,
     title: "UP Diliman hosts Love Laban Pride Festival",
     date: "2025-06-29",
     image: "public/Lovelaban.jpg",
@@ -48,7 +47,7 @@ Pride Night lasted until midnight, featuring a variety of bands, singers, drag a
 The event concluded with a message of resistance, unity, and celebration of queer identity, closing out Love Laban 2025 with joy and pride.</p>`
   },
   {
-    id: 4,
+    id: 8,
     title: "Twinkling Unapologetically",
     date: "2025-06-28",
     image: "public/Pride.jpg",
@@ -63,7 +62,7 @@ Has the world made space for you yet? It shouldn't be that way. Be just how you 
 So, before it ends, greet your TWINKling friends a Happy Pride Month!</p>`
   },
   {
-    id: 5,
+    id: 7,
     title: "For the Man of Our Beginning",
     date: "2025-06-15",
     image: "public/Fathers-day.jpg",
@@ -91,7 +90,7 @@ Hanggang sa kasalukuyan, ang tila ordinaryong pangyayaring ito ay nananatiling s
 Bukod sa taunang pagdiriwang na nagdadala ng pag-asa sa ating mga puso, nararapat nating ipagpatuloy ang paggugunita at pag-alala sa mga bayaning naging pundasyon ng kalayaang ating tinatamasa ngayon.</p>`
   },
   {
-    id: 7,
+    id: 5,
     title: "Silence Meets Faith",
     date: "2025-06-06",
     image: "public/Eid al-adha.jpg",
@@ -107,7 +106,7 @@ Because sometimes, the strongest faith is shown in silence—in quiet acts of ob
 Eid al-Adha reminds us that faith often lies in the quiet moments, rather than in the spotlight. It whispers to us, and when silence meets faith, something truly sacred unfolds—even in the unseen places.</p>`
   },
   {
-    id: 8,
+    id: 4,
     title: "FEU-D HS students head to polls for TAMHalalan 2025",
     date: "2024-05-21",
     image: "public/HSSCC-Halalan.jpg",
@@ -120,12 +119,12 @@ The FEU-D Commission on Elections and Appointments (COMEA) opened the voting fro
 Election results have been released on the FEU-D COMEA Facebook page.</p>`
   },
   {
-    id: 9,
+    id: 3,
     title: "Halalan o Hangalan?",
     date: "2024-05-12",
     image: "public/Halalan.png",
     gfx: "Cartoon by: Fatima Arroyo | Graphics by: Pj Alcantara",
-    tags: ["Editorial"],
+    tags: ["Opinion"],
     author: "ni Jamie Anne Manejero",
     content: `<p>Muling huhusgahan ng kasaysayan ang sambayanang Pilipino sa Mayo 12, 2025. Higit 75.9 milyong mamamayan ang boboto para sa mahigit 18,000 posisyon sa pamahalaang lokal at nasyonal. Isang araw ito kung saan ang ganap na kapangyarihan ay nasa sambayanan. Isang araw na maaaring maging simula ng pag-angat, o tuluyang pagbagsak. Ngunit sa bawat halalan, tila mas nangingibabaw ang ingay kaysa diwa, ang sikat kaysa may kakayahan, at ang mga salitang mabulaklak kaysa sa platapormang makabuluhan. Kaya tayo ay palaging bumabalik ang parehong tanong: ginagamit ba natin ang boto para sa matalinong pagpili, o inuulit lang natin ang siklo ng kahangalan?
 Hindi sapat ang dami kung bulag pa rin sa katotohanan. Sa datos mula sa GMA Integrated News Research, ang mayorya ng mga botante ngayong eleksyon ay mula sa edad 18 hanggang 44. Ito rin ang henerasyong sinasabing may akses sa impormasyon, ngunit sa kabalintunaan, pinaka-biktima rin ng disimpormasyon. Halos 10 milyong Pilipino ang nadagdag sa talaan ng mga rehistrado mula noong 2022. Sampung milyong bagong tinig, ngunit ito rin ba'y sampung milyong bagong target ng kasinungalingan at propaganda? Sa isang lipunang binabaha ng pekeng balita at mapanlinlang na mga pangako, hindi sapat ang pagrehistro. Kailangan din ng rebolusyon sa kritikal na pag-iisip.
@@ -145,7 +144,7 @@ Sapagkat sa huli, ang halalan ay hindi lamang pagsubok sa mga kandidato. Isa rin
 Halalan o hangalan? Huwag nang hayaang ang boto mo ang maging kabiguan ng buong bayan.</p>`
   },
   {
-    id: 10,
+    id: 2,
     title: "Sa Piling ni Nanay",
     date: "2025-05-11",
     image: "public/Mothers-day.jpg",
@@ -161,12 +160,12 @@ Nay, mahal kita higit pa sa sinasabi ko. At hindi ko man masabi ang lahat ng ito
 Lumalaban ako hindi lang para sa sarili ko—lumalaban ako dahil nagtiwala kang lahat ng ito ay kaya ko.</p>`
   },
   {
-    id: 11,
+    id: 1,
     title: "Mabuhay ang uring manggagawa!",
     date: "2025-05-01",
     image: "public/Labor-day.jpg",
     gfx: "Graphics by: Pj Alcantara",
-    tags: ["Features"],
+    tags: ["Feature"],
     author: "ni Robin Nicole Constantino ",
     content: `<p>Ang bawat butil ng kanin sa ating mga pinggan ay dumaan muna sa mga kamay ng isang magsasakang kumakayod kapalit ng munting salapi. Napagkakasya, ngunit halos hindi sapat para sa kaniyang pamilya. Sa bawat makintab na sulok at sahig na iyong dinaraanan sa paaralan, naroon ang mga kamay ng isang diyanitor na tahimik na nagtatrabaho, isinasakripisyo ang sariling ginhawa para sa ginhawa ng iba. 
 Sa bawat sektor, maging ito ay serbisyo o produkto, palaging may mga taong naghahatid nito. Sa likod ng mga bagay na ating tinatamasa, naroon ang mga kamay ng mga indibidwal na nararapat nating alalahanin at pasalamatan.

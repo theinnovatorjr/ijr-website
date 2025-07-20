@@ -101,6 +101,30 @@ document.addEventListener("DOMContentLoaded", () => {
     const articlesPerPage = 6;
     let filteredArticles = window.articles;
 
+    // Feature articles filter
+    if (window.location.pathname.endsWith("features.html")) {
+      filteredArticles = window.articles.filter(article => article.tags.includes("Feature"));
+    }
+
+    // News articles filter
+    if (window.location.pathname.endsWith("news.html")) {
+      filteredArticles = window.articles.filter(article => article.tags.includes("News"));
+    }
+
+    // Opinion articles filter
+    if (window.location.pathname.endsWith("opinion.html")) {
+      filteredArticles = window.articles.filter(article => article.tags.includes("Opinion"));
+    }
+
+    // Sci-tech articles filter
+    if (window.location.pathname.endsWith("sci-tech.html")) {
+      filteredArticles = window.articles.filter(article => article.tags.includes("Sci-Tech"));
+    }
+
+    // Sports articles filter
+    if (window.location.pathname.endsWith("sports.html")) {
+      filteredArticles = window.articles.filter(article => article.tags.includes("Sports"));
+    }
     // Render articles
     function renderArticles() {
       if (!articlesGrid) return;
@@ -112,7 +136,7 @@ document.addEventListener("DOMContentLoaded", () => {
       articlesGrid.innerHTML = articlesToShow.map(article => `
         <article class="article-card" data-id="${article.id}">
           <div class="article-image">
-            <img src="${article.image}" alt="${article.title}">
+            <img src="/${article.image}" alt="${article.title}">
             <div class="article-tag">${article.tags[0] || ''}</div>
           </div>
           <div class="article-content">
@@ -126,6 +150,9 @@ document.addEventListener("DOMContentLoaded", () => {
         </article>
       `).join('');
 
+    // Filter articles
+    const featureArticles = window.articles.filter(article => article.tags.includes("Feature"));
+    
       // Make cards clickable
       articlesGrid.querySelectorAll('.article-card').forEach(card => {
         card.addEventListener('click', function() {
