@@ -276,6 +276,8 @@ ol {
   justify-content: space-between;
   height: 4.5rem;
   padding: 0 var(--spacing-lg);
+  width: 100%;
+  box-sizing: border-box;
 }
 
 /* Logo */
@@ -898,6 +900,10 @@ ol {
   }
   .header-content {
     padding: 0 var(--spacing-md);
+    height: 4rem;
+    width: 100vw;
+    min-width: 0;
+    box-sizing: border-box;
   }
 }
 
@@ -953,8 +959,11 @@ ol {
     text-align: center;
   }
   .header-content {
-    height: 4rem;
+    height: 3.5rem;
+    width: 100vw;
+    min-width: 0;
     padding: 0 var(--spacing-sm);
+    box-sizing: border-box;
   }
   .mobile-menu {
     top: 4rem;
@@ -971,7 +980,10 @@ ol {
 
   .header-content {
     height: 3.5rem;
+    width: 100vw;
+    min-width: 0;
     padding: 0 var(--spacing-xs);
+    box-sizing: border-box;
   }
 
   .logo-text {
