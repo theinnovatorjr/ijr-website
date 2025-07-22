@@ -101,28 +101,31 @@ document.addEventListener("DOMContentLoaded", () => {
     const articlesPerPage = 6;
     let filteredArticles = window.articles;
 
+    const path = window.location.pathname;
+    const pageName = path.split('/').pop().split('.')[0]; 
+
     // Feature articles filter
-    if (window.location.pathname.endsWith("features.html")) {
+    if (pageName === "features") {
       filteredArticles = window.articles.filter(article => article.tags.includes("Feature"));
     }
 
     // News articles filter
-    if (window.location.pathname.endsWith("news.html")) {
+    if (pageName === "news") {
       filteredArticles = window.articles.filter(article => article.tags.includes("News"));
     }
 
     // Opinion articles filter
-    if (window.location.pathname.endsWith("opinion.html")) {
+    if (pageName === "opinion") {
       filteredArticles = window.articles.filter(article => article.tags.includes("Opinion"));
     }
 
     // Sci-tech articles filter
-    if (window.location.pathname.endsWith("sci-tech.html")) {
+    if (pageName === "sci-tech") {
       filteredArticles = window.articles.filter(article => article.tags.includes("Sci-Tech"));
     }
 
     // Sports articles filter
-    if (window.location.pathname.endsWith("sports.html")) {
+    if (pageName === "sports") {
       filteredArticles = window.articles.filter(article => article.tags.includes("Sports"));
     }
     // Render articles
