@@ -8,6 +8,58 @@ const articles = [
     author: "[Your Name]",
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
+ {
+    id: 13,
+    title: "FEU Diliman ends 2025 kickoff celebration ",
+    date: "2025-07-29",
+    image: "public/Tamchella_third.jpg",
+    gfx: "Photo by: Alyana Ortiz",
+    tags: ["News"],
+    author: "by Kaitlin Dionisio",
+    content: `<p>FEU Diliman held its official kickoff celebration on July 29, 2025, at the gymnasium.
+    The event continued with a minor prize raffle where Mendoza and Chan were announced as winners.
+    The High School Student Coordinating Council (HSSCC) then introduced its members and respective committees.
+    Musiklab followed with lively performances of “Tensionado,” “Huwag Na Huwag Mong Sasabihin,” and “Hallelujah.”
+    HSSCC adviser Ms. Diane Laoreno gave her closing remarks, welcoming the students, and thanking everyone for their participation.
+    The FEU Pep Squad energized the crowd by teaching the university’s official cheers.
+    The program concluded with the singing of the FEU Hymn, uniting everyone in school pride.
+    </p>`
+  },
+  {
+    id: 12,
+    title: "TamChella showcases campus talents and organizations",
+    date: "2025-07-29",
+    image: "public/Tamchella_second.jpg",
+    gfx: "Photo by: Alyana Ortiz",
+    tags: ["News"],
+    author: "by Jamie Anne Manejero",
+    content: `<p>The school year officially came alive as FEU Diliman launched its annual kickoff event. 
+    The vibrant program brought students together at the FEU gymnasium for a day of performances, cheers, and celebration.
+    The excitement continued to build as a mini raffle was held, drawing cheers and anticipation from the crowd.
+    This was followed by a musical performance from the Diliman Lit Club, which blended singing and theatrical expression.
+    Next came a performance by the radio broadcasting heads of The Innovator Jr., Shaneen Sarona and Leigh Cueva, who brought even more spirit to the stage.
+    After the performances, various clubs and organizations of FEU Diliman were formally introduced to the students.
+    Each organization took their moment to present their goals and invite new members to be part of their community.
+    The presentation highlighted the diversity of interests that FEU Diliman proudly nurtures.
+    With the introductions complete, applications for all organizations officially opened.
+    Interested Tamaraws may now visit the booths located at the New Building to sign up and explore the many opportunities campus life has to offer.
+    </p>`
+  },
+  {
+    id: 11,
+    title: "FEU Tamaraws start strong as the new school year begins",
+    date: "2025-07-29",
+    image: "public/Tamchella_first.jpg",
+    gfx: "Photo by: Greg Roxas",
+    tags: ["News"],
+    author: "by Shad Louie De Jesus",
+    content: `<p>After a long break, the halls of FEU Diliman once again echoed with laughter and loud cheers as Senior High School officially kicked off the new academic year.
+    Students gathered at the gymnasium for "TAMCHELLA: Kick It to the Beat!" where the event took place.
+    The crowd roared as the FEU Diliman Cheering Squad and Bison Team took the stage, delivering powerful chants and dynamic formations that filled the venue with excitement and Tamaraw pride.
+    Following this was a stunning performance by the Novians, whose synchronized moves and strong stage presence left the audience in awe.
+    The celebration then transitioned into the formal opening ceremony, where High School Student Coordinating Council (HSSCC) President Sam Lorraine Ocampo delivered her welcoming remark. 
+    </p>`
+  },
   {
     id: 10,
     title: "A LEGACY PENNED IN INK",
