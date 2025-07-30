@@ -23,7 +23,8 @@ const articles = [
     HSSCC adviser Ms. Diane Laoreno gave her closing remarks, welcoming the students, and thanking everyone for their participation.
     The FEU Pep Squad energized the crowd by teaching the university’s official cheers.
     The program concluded with the singing of the FEU Hymn, uniting everyone in school pride.
-    </p>`
+    </p>`,
+    fbLink: "https://www.facebook.com/share/p/1B9q6hFqju/"
   },
   {
     id: 12,
@@ -43,7 +44,8 @@ const articles = [
     The presentation highlighted the diversity of interests that FEU Diliman proudly nurtures.
     With the introductions complete, applications for all organizations officially opened.
     Interested Tamaraws may now visit the booths located at the New Building to sign up and explore the many opportunities campus life has to offer.
-    </p>`
+    </p>`,
+    fbLink: "https://www.facebook.com/share/p/1CFRrGbd5V/"
   },
   {
     id: 11,
@@ -58,7 +60,8 @@ const articles = [
     The crowd roared as the FEU Diliman Cheering Squad and Bison Team took the stage, delivering powerful chants and dynamic formations that filled the venue with excitement and Tamaraw pride.
     Following this was a stunning performance by the Novians, whose synchronized moves and strong stage presence left the audience in awe.
     The celebration then transitioned into the formal opening ceremony, where High School Student Coordinating Council (HSSCC) President Sam Lorraine Ocampo delivered her welcoming remark. 
-    </p>`
+    </p>`,
+    fbLink: "https://www.facebook.com/share/p/1J7bBSSktn/"
   },
   {
     id: 10,
@@ -78,7 +81,8 @@ But achievements cannot be measured by medals, trophies, and certificates alone.
 The school year 2024 to 2025 is not just a record of awards. It is a chronicle of endurance and ambition, of student journalists stepping into the responsibilities of public discourse. From the first byline to the latest headline, The Innovator Jr. has not only highlighted milestones—it has created them.
 And as the ink dries on this transformative year, one thing is clear: the story of The Innovator Jr. is only just beginning. The names may change, the staff may turn over, but the standard has been set—unyielding, unflinching, and unmistakably bold.
 The pen remains in steady hands. History, it seems, has found new authors.
-</p>`
+</p>`,
+    fbLink: "https://www.facebook.com/share/p/16ZyX7gVcw/"
   },
   {
     id: 9,
@@ -96,7 +100,8 @@ The participants had placards, banners, and flags and wore colorful outfits, all
 Prior to the event, organizers had informed attendees about possible rain, which began to pour just as Pride Night, the evening performance program, started.
 Despite the heavy rain and muddy grounds, the event continued with high spirits, loud cheers, and unwavering pride.
 Pride Night lasted until midnight, featuring a variety of bands, singers, drag artists, dance crews, and special guest idols.
-The event concluded with a message of resistance, unity, and celebration of queer identity, closing out Love Laban 2025 with joy and pride.</p>`
+The event concluded with a message of resistance, unity, and celebration of queer identity, closing out Love Laban 2025 with joy and pride.</p>`,
+    fbLink: "https://www.facebook.com/share/p/129DcnFbA3K/"
   },
   {
     id: 8,
@@ -111,7 +116,8 @@ The ocean appears blue even if water is transparent, the tide is sometimes high 
 After the storm, there comes a rainbow. You don't need to figure it all out in one night; even flowers can't bloom that fast. And just like the rainbow, though the colors are named, it's still a very broad spectrum. Why put yourself into one color when there's a whole gradient to pick? Your identity, much like the colors of the rainbow, doesn't have to be just one thing. Nature doesn't think of it that way, it never has.
 This vastness, this spectrum, is comparable to a whole galaxy. You're a star as yourself as well, even if some of you are still hiding, only seen when it's nighttime. Despite that, you're still shining. Everyone wants to reach for a star like you, though the most they could do is to watch from afar. The others would rather see the sun than your starlight, but it shouldn't dim your light.
 Has the world made space for you yet? It shouldn't be that way. Be just how you are and make space for them instead. There's no harm in staying true, especially if what you're doing is just inevitable.
-So, before it ends, greet your TWINKling friends a Happy Pride Month!</p>`
+So, before it ends, greet your TWINKling friends a Happy Pride Month!</p>`,
+    fbLink: "https://www.facebook.com/share/p/1B2w1ZJv7y/"
   },
   {
     id: 7,
@@ -127,7 +133,8 @@ Whether you're a dad, stepdad, grandpa, or a father figure, your presence impact
 You may not wear a cape, but in the eyes that look up to you—you've always been a hero.
 You may not ask for praise, but you deserve all of it, and more.
 “Salamat, Papa—sa lahat ng hindi mo sinabi pero palagi mong pinaparamdam.”
-Happy Father’s Day!</p>`
+Happy Father’s Day!</p>`,
+    fbLink: "https://www.facebook.com/share/p/1EPAsqY14F/"
   },
   {
     id: 6,
@@ -139,7 +146,8 @@ Happy Father’s Day!</p>`
     author: "by Robin Nicole Constantino",
     content: `<p>127 taon na ang nakararaan nang unang iniangat at iwinagayway ni Heneral Emilio Aguinaldo ang watawat ng Pilipinas sa balkonahe ng kaniyang tahanan sa Kawit, Cavite. Ang pambansang bandila ay ang nagsilbing instrumento upang ideklara ang pagkakatayo ng Unang Republika ng Pilipinas at ang pagkahanap ng liwanag mula sa madilim na mahigit tatlong daan taong pamamahala ng Espanya.
 Hanggang sa kasalukuyan, ang tila ordinaryong pangyayaring ito ay nananatiling sagisag ng walang-sawang pagpupunyagi upang makamit at mapanatili ang demokrasya at mga karapatang sibil na dapat tamasahin ng bawat Pilipino.
-Bukod sa taunang pagdiriwang na nagdadala ng pag-asa sa ating mga puso, nararapat nating ipagpatuloy ang paggugunita at pag-alala sa mga bayaning naging pundasyon ng kalayaang ating tinatamasa ngayon.</p>`
+Bukod sa taunang pagdiriwang na nagdadala ng pag-asa sa ating mga puso, nararapat nating ipagpatuloy ang paggugunita at pag-alala sa mga bayaning naging pundasyon ng kalayaang ating tinatamasa ngayon.</p>`,
+    fbLink: "https://www.facebook.com/share/p/1B3pH65Wx5/"
   },
   {
     id: 5,
@@ -155,7 +163,8 @@ This sacred day, honored by Muslims around the world, goes back to the story of 
 The celebration continues with prayer, reflection, and food sharing. In Muslim communities across the Philippines, especially in Mindanao, the day is marked by quiet gatherings, generous meals, and acts of kindness toward those in need.
 It is not loud. It is not showy. But it is deeply powerful.
 Because sometimes, the strongest faith is shown in silence—in quiet acts of obedience, in sacrifices no one else sees.
-Eid al-Adha reminds us that faith often lies in the quiet moments, rather than in the spotlight. It whispers to us, and when silence meets faith, something truly sacred unfolds—even in the unseen places.</p>`
+Eid al-Adha reminds us that faith often lies in the quiet moments, rather than in the spotlight. It whispers to us, and when silence meets faith, something truly sacred unfolds—even in the unseen places.</p>`,
+    fbLink: "https://www.facebook.com/share/p/1ahrpadSj6/"
   },
   {
     id: 4,
@@ -168,7 +177,8 @@ Eid al-Adha reminds us that faith often lies in the quiet moments, rather than i
     content: `<p>Hundreds of FEU Diliman Junior High School and Grade 11 students cast their ballots for TAMHalalan 2025 on Tuesday, May 20, at the campus' Main Lobby.
 Voters selected between candidates from partylists SAKSES and BANAAG.
 The FEU-D Commission on Elections and Appointments (COMEA) opened the voting from 11:00 a.m. to 4:00 p.m, with pollwatchers from HUMSS and GAS overseeing the process.
-Election results have been released on the FEU-D COMEA Facebook page.</p>`
+Election results have been released on the FEU-D COMEA Facebook page.</p>`,
+    fbLink: "https://www.facebook.com/share/p/1KQomdxsD8/"
   },
   {
     id: 3,
@@ -193,7 +203,8 @@ Ito ang huling paalala: ang dami nang may puso para sa mga mamamayan. Sana yung 
 Hindi natin kayang ulitin ang parehong pagkakamali. Ilang beses na tayong naloko ng matatamis na salita, ng mga pangakong nanlalamig pagkaupo sa puwesto, ng mga pulitikong tila laging handang tumulong kapag eleksyon, ngunit nawawala tuwing panahon ng krisis. Kailangan natin ng mga lider na hindi lang marunong umiyak sa entablado, kundi may tapang humarap sa mga ugat ng kahirapan. Hindi sapat ang galing sa kampanya; ang kailangan natin ay galing sa pamumuno.
 Habang nangyayari ang halalan, tanungin natin ang sarili: ang bobotohin ba natin ay ang lider na kayang ipaglaban ang edukasyon, ang magsasaka, ang manggagawa, ang ordinaryong mamamayan? Dahil ang tunay na boto ay hindi lang para sa isang tao. Ito ay boto para sa uri ng kinabukasan na hinahangad nating mga Pilipino.
 Sapagkat sa huli, ang halalan ay hindi lamang pagsubok sa mga kandidato. Isa rin itong pagsusulit sa sambayanang Pilipino. Pipili ba tayo ng matino at may paninindigan, o muling magpapadala sa kasikatan at kasinungalingan? Sa araw ng halalan, ang tanong ay hindi lamang kung sino ang mananalo, kundi kung tayo ba ay natuto. 
-Halalan o hangalan? Huwag nang hayaang ang boto mo ang maging kabiguan ng buong bayan.</p>`
+Halalan o hangalan? Huwag nang hayaang ang boto mo ang maging kabiguan ng buong bayan.</p>`,
+    fbLink: "https://www.facebook.com/share/p/1CA967F9iK/"
   },
   {
     id: 2,
@@ -209,7 +220,8 @@ Ang pag-aalaga ng isang ina ay hindi nagsasawa. Ito ay puno ng pag-uunawa, puno 
 Kaya sa araw na ito, gusto ko namang ipagdiwang ang presensiya mo. Ang isang tulad mong hindi nakalimutang unahin ako. Ang isang katulad mong naniwala sa kung anong makakaya ko, bago ko nakita ang potensiyal sa sarili ko. 
 Karapat-dapat mong madama na ikaw ay nag-iisa, hindi lamang sa araw na ito—araw-araw dapat ginugunita ang isang katulad mo. Ang lahat ng iyong paghihirap ay nakikita ko, hindi ko man ibuka ang bibig ko. Lahat ng iyong isinakripisyo ay ibabalik ko sa iyo nang buong-buo. 
 Nay, mahal kita higit pa sa sinasabi ko. At hindi ko man masabi ang lahat ng ito, ang pagsisikap ko ngayon ay iniaalay ko sa iyo. Ang magandang buhay na ipinangarap mong makuha ko—ay para din sa iyo. 
-Lumalaban ako hindi lang para sa sarili ko—lumalaban ako dahil nagtiwala kang lahat ng ito ay kaya ko.</p>`
+Lumalaban ako hindi lang para sa sarili ko—lumalaban ako dahil nagtiwala kang lahat ng ito ay kaya ko.</p>`,
+    fbLink: "https://www.facebook.com/share/p/16eSkKcQKy/"
   },
   {
     id: 1,
@@ -224,7 +236,8 @@ Sa bawat sektor, maging ito ay serbisyo o produkto, palaging may mga taong nagha
 Bunga ng masigasig na protesta ng libo-libong miyembro ng Union Obrera Democratica de Filipina (UODF), unang ipinagdiwang ang Araw ng Manggagawa sa Pilipinas noong ika-1 ng Mayo taong 1903. Ngayon, isang daan at dalawampu't taon na ang lumipas, patuloy tayong hinihikayat na isaalang-alang, kilalanin, at bigyang-hustisya ang lanat ng uri ng manggagawa sa ating bansa.
 Bukod sa pagbibigay-pugay at panandaliang pamamahinga, ang araw na ito ay dapat ituon sa pakikibaka para sa karapatan ng ating mga tagapaglingkod, mula sa makatarungang sahod na nagbibigay ng tunay na halaga sa kanilang mga pawis, pantay na oportunidad na hindi sumasandal sa pangalan o koneksiyon, ligtas na kondisyon sa trabaho, at paggalang sa dignidad na tunay na ipinagkakaloob at hindi ipinapangako lamang tuwing eleksiyon.
 Bilang ang kapalaran natin sa pagtatapos ng pag-aaral ay ang maging parte ng bagong henerasyon ng mga manggagawa ng bayan, kabilang sa ating responsibilidad ay patuloy na itulak ang reporma at pagbabago na isinulong ng mga ninuno natin. 
-Ang kanilang pakikibaka ay hindi natatapos sapagkat pasan-pasan natin ito—ang kanilang mga yapak, kalyo, at pawis na itinaguyod. Ito ang kanilang maipamamana, ang pagsisikap at tiyaga sa pag-aalsa na naging puno’t dulo ng likas na kalayaan at ginhawa.</p>`
+Ang kanilang pakikibaka ay hindi natatapos sapagkat pasan-pasan natin ito—ang kanilang mga yapak, kalyo, at pawis na itinaguyod. Ito ang kanilang maipamamana, ang pagsisikap at tiyaga sa pag-aalsa na naging puno’t dulo ng likas na kalayaan at ginhawa.</p>`,
+    fbLink: "https://www.facebook.com/share/p/1CbJftC3HE/"
   },
 ];
 
