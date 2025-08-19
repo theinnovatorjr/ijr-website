@@ -9,6 +9,28 @@ const articles = [
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
  {
+   id: 14,
+   title: "Bitbit ang Pangalan, Bitbit ang Pangarap",
+   date: "2025-08-19",
+   image: "public/bitbit.jpg",
+   tags: ["Feature"],
+   author: "ni Robin Nicole Constantino",
+   content: `<p>Sa gitna ng mga naglalakihang gusali at magugulong kalye ng pinakamalaking siyudad sa Metro Manila, nananatiling buhay ang isang munting hangarin.
+"Nais kong magkaroon ng isang kabisera na siyang magiging punong tanggapan ng pambansang gobyerno—isang lugar na magiging respetadong sentro ng buhay, mga ambisyon, at tagumpay ng tao, habang ito ay isang masiglang komunidad na kayang magtaguyod ng sarili nito.”
+Para sa iba, ang pahayag na ito ay tila simpleng mensahe na walang nilalaman; walang bigat, walang katotohanan.
+Subalit sa taong 1939, nang umusbong ang bagong republika at nahirapan ang siksikang Maynila na sumagot sa mga tumitinding pangangailangan ng mga mamamayan, nagkaroon ng timbang ang bawat salitang nabitawan. 
+At bilang marangal na pinuno, pinatunayan ni Manuel L. Quezon na ang kanyang talumpati ay hindi lamang  pangarap na nakabitin sa hangin, kundi tapat na pangakong maitataga sa bato. Pangako na hindi niya man natuklasan nang lubos sa kanyang panahon, ngunit patuloy na nabubuhay sa bawat sulok ng komunidad na nagdadala ng kanyang pangalan.
+Ngunit sino nga ba siya?
+Higit pa sa pagiging Ama ng Wikang Pambansa, si Quezon ang ikalawang pangulo ng Pilipinas na namamuno mula 1935 hanggang sa kanyang huling hininga noong 1944. Siya ang taong naglatag ng daan tungo sa kalayaan ng bayan. Sa kanyang pagtatayo ng panibagong lungsod, nais niyang bigyang-solusyon ang mga suliranin na bumubuhat sa kaguluhan ng dating Maynila.
+Sa pamamagitan ng mga proyektong pabahay para sa mga mamamayan at sa pagtatayo ng mga imprastrakturang sumasalamin sa isang umuunlad na bansa, unti-unti niyang sinimulan ang pagbubuti ng pangkalahatang estado ng Pilipinas na noon ay nasa bingit ng kasarinlan. 
+Bagaman hindi na kabisera ang Quezon sa kasalukuyan at marahil naglaho na sa alaala ng mga residente ang tunay na kasaysayan ng kanilang kinaroroonan, sila ay mahalagang kasangkapan pa rin sa patuloy na pagtupad sa adhikain ng dating pangulo. 
+Kaya't upang parangalan ang ugat ng isang masaganang pamayanan, ipinagdiriwang natin ang Araw ng Quezon City sa kapanganakan ng bayaning ang pangalan ay bitbit ng buong lungsod tuwing Ika-18 ng Agosto.
+Sa araw na ito, hindi lamang natin ginagalang ang nakaraan, ipinagbubunyi rin natin ang patunay na ang mga pangarap, kapag bininyagan ng pawis at determinasyon, ay nagiging katotohanan. 
+Sa huli, ang tunay na tagumpay ni Quezon ay hindi matutuklasan sa anumang gusali o kalye, kundi sa mga taong patuloy na naniniwala na ang munting hangarin ay maaaring maging malaking pagbabago.
+   </p>`,
+    fbLink: "https://www.facebook.com/share/p/16vgWzCR4f/"
+ },
+ {
     id: 13,
     title: "FEU Diliman ends 2025 kickoff celebration ",
     date: "2025-07-29",
