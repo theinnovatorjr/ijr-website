@@ -10,6 +10,28 @@ const articles = [
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
 {
+   id: 62,
+   title: "NUNS Bullpups Outlast FEU Baby Tamaraws in Five-Set UAAP Thriller",
+   date: "2025-10-14",
+   image: "public/62_UAAP.jpg",
+   gfx: "Photos By Eleine Torres and Jeanelle Moraless",
+   tags: ["News"],
+   author: "ni Jamie Anne Manejero",
+   content: `<p>The National University–Nazareth School (NUNS) Bullpups displayed composure and determination to outlast the Far Eastern University (FEU) Baby Tamaraws in an intense five-set showdown, 3–2 (23–25, 25–23, 25–23, 12–25, 15–12), in the UAAP Season 88 Boys’ Volleyball tournament held on October 12, 2025, at the Blue Eagle Gym.
+Both teams battled fiercely from start to finish, trading powerful spikes and crucial defensive stops in a match that kept the crowd on edge. FEU took the opening set with the unstoppable performance of Kenneth Jan Maliwanag, who led the charge with 24 attacks out of 46 attempts. Setter Brix Landicho provided stability for the Baby Tamaraws, dishing out 19 excellent sets, while Tyler Jessie Ramos contributed 14 points along with 13 receptions to set the tone early.
+NUNS, however, quickly recovered in the following frames. Xandrex Ragusta powered the Bullpups with 22 attack points, supported by Ronnie Millan’s 16 and Emerson Lejano’s 13 as they turned the tide to take the second and third sets. Their front line found its rhythm, while setter Johanz Brylle Crespo commanded the offense with precision and consistency.
+Refusing to go down quietly, FEU roared back in the fourth set with renewed aggression. Ron Andrei De Vera and Eldrielle Manlapaz made their presence felt at the net, while Maliwanag and Ramos continued to deliver offensively. The Baby Tamaraws dominated the set, 25–12, forcing a deciding fifth.
+In the final frame, NUNS showed their championship composure. Crespo directed the plays with 21 excellent sets, while libero Geoff Adrian Deniega anchored the floor defense with 15 digs and 31 receptions. Despite FEU’s late push, NUNS held their ground with steady serving and smart net defense to close out the match, 15–12.
+Statistically, NUNS finished with 66 attacks, 55 excellent receptions, and 25 excellent sets, while FEU registered 63 attacks and 38 receptions. The match was a showcase of skill, heart, and resilience from both sides.
+After the game, FEU head coach Rene Al Dulay commended his team’s effort but acknowledged the lapses that proved costly in the end.
+“We’ve played well but the problem is on the latter part, medyo nag-lapse kami especially on the blocking and receive. But definitely, overall assessment, very good ang match. Hindi naman pwedeng dalawa ang mananalo, kailangan isa lang. We have to prepare pa talaga, we have to practice pa,” said Dulay.
+He also emphasized the importance of preparation for their next outing.
+“For next plans on the next game, we have to prepare. Hindi naman pwedeng balewalain yung UE — they’re playing well. Ibalik lang yung system na ginagawa namin and continue practicing.”
+With the victory, NUNS tightened its grip on a top spot in the standings, while FEU looks to regroup and bounce back stronger in their upcoming match against the University of the East.
+   </p>`,
+    fbLink: "https://www.facebook.com/share/p/1CN4jEoy39/"
+},
+{
    id: 61,
    title: "A… K… A… B…",
    date: "2025-10-14",
@@ -23,7 +45,7 @@ Abusado… Kapangyarihan… Awtoridad… Brutalidad… Binalutan ang kalsada ng 
 Alaala… Kandila… Apoy… Bisig… Narinig mo ba yun? Ang sabi sa tabi-tabi, pupunuin ang kalsada ng sampaguita para sa isang bulaklak na pinitas bago mamulaklak. At papahiran ng tunaw na kandila ang bato kung saan siya humimlay—isang alay sa ngalan ng hustisya. May bulong ang hangin at ito ang ngalan ni Eric. Matapos ang trahedya, may mga batang nagtatakip ng tenga pag may sirena, mga inang nanginginig pag may pulis sa labas ng bintana. Nagliyab ang distrito ng kandila para kay Eric. Nawa’y habang dumaan ka sa Recto, maalala mo siya. Maalala ang kaharasan ng kapulisan sa kaniya. Alalahaning kahit ang tahimik ay papatahimikin ng polisya dahil alam nila ang kanilang kapangyarihan. Ikalat ang balitang galing sa bayan ko, at ang mga pangyayaring naganap sa lupang ipinangako.
 Elisiya… Recto… Inapakan… Kinabukasan….
    </p>`,
-    fbLink: "https://www.facebook.com/share/p/1A3utn2L3X/"
+    fbLink: "https://www.facebook.com/share/p/17SPivdeGX/"
 },
 {
    id: 60,
