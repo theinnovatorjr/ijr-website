@@ -10,6 +10,22 @@ const articles = [
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
 {
+   id: 61,
+   title: "A… K… A… B…",
+   date: "2025-10-14",
+   image: "public/61_AKAB.jpg",
+   gfx: "Publication Material ni Andrea Gonzales",
+   tags: ["Feature"],
+   author: "ni Lance Leal",
+   content: `<p>Alab… Kilos… Awit… Bayan… Naririnig mo ba ang sigaw ng lansangan? Mga himig ng sama-samang dibdib. Mga kamay na nakataas, ‘di upang manakit, kundi manindigan para sa kinabukasan ng sambayanan. Mga sigaw na ‘di musika sa tenga ng makapangyarihan, dahil naririnig nila ang awitin ng katotohanan. Mga salitang kasing ganda ng mga dasal na inuusal sa loob ng ospital. At kasabay ng paglakad ng mga tao, may isang trabahador na nakikidaan lamang. Di alam ni Eric Saber na sa iilang sandali, magiging bahagi siya sa rason ng paghiyaw ng bayan. Ramdan mo sa kalsada ang munting apoy sa puso ng mga tao noong ika-21 ng Setyembre. Habang nagmamartsa ang kilos-protesta, mayroong nanonood na unipormeng para sa bayan ngunit babad na babad sa dugong galing sa bayan. Hawak nila ang kanilang pilak, isang pilak na sa isang maling hawak, maaaring makatigil ng pag pikit-mata.
+Anino… Karahasan… Agos… Buhay… May halimuyak ng tensyon na di matanggal sa balat. Ang hangin ay nag-amoy tanso at puno ng abo. Narinig mo ba iyon! Isang putok sa gitna ng mga sigaw, ito’y bumasag sa araw.  Ang bala’y dumaan sa daang daang tinig. At sa isang pagpikit, humandusay sa aspalto ang isang sibilyang walang kamalay malay ngunit natamaan ng ligaw na galit. Ang init ng lupa’y humahalo sa nanlalamig niyang katawan. Ang dugong bumubuhay sa kanya noon ay nakalampaso at umaagos sa kalsada ng Recto. At ang ilaw ng SOGO sa kanto, kumuti-kutitap na parang kandila sa lamay. Nagtakbuhan ang mga tao dahil sa kanilang na masdan. May batang umiiyak sa poste, hinahanap ang kaniyang magulang. Si Eric Saber—isang manggagawang ninanais makauwi lamang, isang manggagawang nanonood lamang, naglapat ang mga mata. Sa gitna ng ingay, ang kaniyang mundo’y inangkin ng katahimikan. Ang kaniyang leeg butas, gawa ng mga taong dapat nagpoprotekta sa kanya.
+Abusado… Kapangyarihan… Awtoridad… Brutalidad… Binalutan ang kalsada ng dilaw, tila tinatago ang katotohanan sa bayan. Sa bawat sulok, may alaala ng sumbrero na naiwan sa takbuhan. Naririnig mo ba ang sabi ng kapulisan? Sa ngalan ng ani nilang kapayapaan, ngunit sila rin ang sanhi ng kamatayan. Sa bawat kalabit ng gatilyo, may buhay na binabawian—isang buhay na dapat nilang binabantayan. Ang kalye ay nagiging larangan ng kanilang kapangyarihan, ang masa ay nagiging kalaban ng sariling bayan. Hindi ba’t sila dapat ang sandigan ng pag-asa, hindi dahilan ng takot sa sarili mong bayan?
+Alaala… Kandila… Apoy… Bisig… Narinig mo ba yun? Ang sabi sa tabi-tabi, pupunuin ang kalsada ng sampaguita para sa isang bulaklak na pinitas bago mamulaklak. At papahiran ng tunaw na kandila ang bato kung saan siya humimlay—isang alay sa ngalan ng hustisya. May bulong ang hangin at ito ang ngalan ni Eric. Matapos ang trahedya, may mga batang nagtatakip ng tenga pag may sirena, mga inang nanginginig pag may pulis sa labas ng bintana. Nagliyab ang distrito ng kandila para kay Eric. Nawa’y habang dumaan ka sa Recto, maalala mo siya. Maalala ang kaharasan ng kapulisan sa kaniya. Alalahaning kahit ang tahimik ay papatahimikin ng polisya dahil alam nila ang kanilang kapangyarihan. Ikalat ang balitang galing sa bayan ko, at ang mga pangyayaring naganap sa lupang ipinangako.
+Elisiya… Recto… Inapakan… Kinabukasan….
+   </p>`,
+    fbLink: "https://www.facebook.com/share/p/1A3utn2L3X/"
+},
+{
    id: 60,
    title: "7.4 Earthquake strikes Davao Oriental, kills seven",
    date: "2025-10-14",
