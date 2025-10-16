@@ -10,13 +10,33 @@ const articles = [
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
 {
+   id: 63,
+   title: "The Price of Absence",
+   date: "2025-10-16",
+   image: "public/63_Absence.jpg",
+   gfx: "Publication Material By Nathan Cabatuando",
+   tags: ["Opinion"],
+   author: "by Andrew Batingan",
+   content: `<p>  For us students, unexcused absences are met with sanctions—failed assessments, lowered grades, or even lost privileges. Clamors for accountability echo throughout academia, reminding its constituents of the weight of responsibility that accompanies every action, or lack thereof. Yet in the grand classroom of government, those seated in the highest offices evade their call of responsibility for the sake of political survival.
+            In a decisive move, the lower chamber reduced the proposed 2026 budget of the Office of the Vice President from ₱889.2 million to ₱733.2 million, reverting it to its 2025 figures. This came after Vice President Sara Duterte’s repeated snub of the Congress’s budget hearing, which the latter saw as disrespectful and unaccountable.
+            In school, showing up is part of learning. In government, showing up is part of leading. Accountability cannot be taken by silence nor fulfilled by absence. It demands the active participation of those in power, coupled with their willingness to answer questions and stand firm in the light of public scrutiny. Because in every peso lies not only the tax of the people but also the public’s hope for a better future.
+            The decision was not merely numerical; it is a reminder that accountability cannot be bought by delays and disregard. I, as a student myself, face the bludgeoning calls for responsibility when I fall short of expectations. Seeing the second-highest official in the land evade such necessary standards exposes a troubling paradox—ordinary citizens are punished for absence, while those in power see public service as a negotiable duty.
+            With that, glimmers of hope fade into the depths of greed and complicity. Allowing such double standards to exist is caging oneself in the system that prioritizes personal gain. The values of honesty, fairness, and responsibility that were once taught to us as foundational to civic engagement lose meaning when practiced selectively. And as trust erodes, so too does the belief that change is possible, dimming the ideals and aspirations of the nation.
+            As Leila de Lima has said, “public money is not a toy.” If students demand accountability and transparency in student leadership, then the public should uphold the same standards for those in power, where the stakes are higher and every move costs the blood, sweat, and tears of the Filipino people. Public funds are not gifts nor privileges; they are change catalysts that can make or break the nation. As such, the House’s move to scrutinize and sanction allotted funds speaks well of hope and integrity—and rightfully so.
+            In the grand scheme of things, not everything is political. Scrutiny should not be seen as hostilities masked in inquiries but rather as a shared commitment to protect the common good. I am livid at the thought that if we continue to turn a blind eye, public funds will become weaponized for political propaganda, and trust will become a fragile illusion built upon years of negligence. And as indifference grows, the line between governance and greed blurs—leaving us not to question when the system broke, but when we stopped caring that it did.
+            In the years to come, let us not treat accountability as a charity; it is not theatrical nor emotional. Accountability does not call for the people’s sympathy; it calls for the clean government the Philippines earnestly deserves. Falling deeper into the pit of flawed execution of checks and balances is a sin to the next generation. As said, those who fail to learn from history are doomed to repeat it—and perhaps, that’s the point. The cycle of accepting silence as a sufficient response leads the country nowhere but ruin. Let this be the generation that topples the tyranny of mediocrity.
+            Hands clean and head up high, I believe that hope is still alive beneath the rubble of prolonged accountability. Beacons of light remain visible to the masses, protecting the integrity and dignity of the institution that sought to battle injustice and inequality. Eyes opened with truth and conviction, I have faith that the future remains bright, albeit tedious. I challenge every finger that lies across this: to write not excuses, but actions; not absences, but answers. Because at the end of the day, we will all succumb to whatever fate the government chooses to pursue.
+   </p>`,
+    fbLink: "https://www.facebook.com/share/p/16vXSFFtQy/"
+},
+{
    id: 62,
    title: "NUNS Bullpups Outlast FEU Baby Tamaraws in Five-Set UAAP Thriller",
    date: "2025-10-14",
    image: "public/62_UAAP.jpg",
    gfx: "Photos By Eleine Torres and Jeanelle Moraless",
    tags: ["News"],
-   author: "ni Jamie Anne Manejero",
+   author: "by Jamie Anne Manejero",
    content: `<p>The National University–Nazareth School (NUNS) Bullpups displayed composure and determination to outlast the Far Eastern University (FEU) Baby Tamaraws in an intense five-set showdown, 3–2 (23–25, 25–23, 25–23, 12–25, 15–12), in the UAAP Season 88 Boys’ Volleyball tournament held on October 12, 2025, at the Blue Eagle Gym.
 Both teams battled fiercely from start to finish, trading powerful spikes and crucial defensive stops in a match that kept the crowd on edge. FEU took the opening set with the unstoppable performance of Kenneth Jan Maliwanag, who led the charge with 24 attacks out of 46 attempts. Setter Brix Landicho provided stability for the Baby Tamaraws, dishing out 19 excellent sets, while Tyler Jessie Ramos contributed 14 points along with 13 receptions to set the tone early.
 NUNS, however, quickly recovered in the following frames. Xandrex Ragusta powered the Bullpups with 22 attack points, supported by Ronnie Millan’s 16 and Emerson Lejano’s 13 as they turned the tide to take the second and third sets. Their front line found its rhythm, while setter Johanz Brylle Crespo commanded the offense with precision and consistency.
