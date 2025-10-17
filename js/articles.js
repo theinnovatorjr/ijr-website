@@ -69,7 +69,7 @@ So as life slowly returns to normal in Davao Oriental, the memories of destructi
    date: "2025-10-14",
    image: "public/62_UAAP.jpg",
    gfx: "Photos By Eleine Torres and Jeanelle Moraless",
-   tags: ["News"],
+   tags: ["Sports"],
    author: "by Jamie Anne Manejero",
    content: `<p>The National University–Nazareth School (NUNS) Bullpups displayed composure and determination to outlast the Far Eastern University (FEU) Baby Tamaraws in an intense five-set showdown, 3–2 (23–25, 25–23, 25–23, 12–25, 15–12), in the UAAP Season 88 Boys’ Volleyball tournament held on October 12, 2025, at the Blue Eagle Gym.
 Both teams battled fiercely from start to finish, trading powerful spikes and crucial defensive stops in a match that kept the crowd on edge. FEU took the opening set with the unstoppable performance of Kenneth Jan Maliwanag, who led the charge with 24 attacks out of 46 attempts. Setter Brix Landicho provided stability for the Baby Tamaraws, dishing out 19 excellent sets, while Tyler Jessie Ramos contributed 14 points along with 13 receptions to set the tone early.
@@ -139,7 +139,7 @@ Celebrate World Mental Health Day and keep your holistic health in check, Baby T
    date: "2025-10-10",
    image: "public/58_UAAP.jpg",
    gfx: "Photos by Jeanelle Morales and Eleine Torres",
-   tags: ["News"],
+   tags: ["Sports"],
    author: "by Jamiel Pablo",
    content: `<p>The Adamson University Lady Baby Falcons opened their UAAP Season 88 High School Girls’ Volleyball campaign in soaring fashion, sweeping the Far Eastern University–Diliman in straight sets, 25–20, 25–18, 25–16, in Preliminaries Round 1 at the Blue Eagle Gym on Saturday.
 After last season’s runner-up finish, the Lady Baby Falcons showed they’re out for redemption — unleashing a sharp, composed performance that kept the charging Baby Lady Tamaraws at bay.
@@ -178,7 +178,7 @@ The Earth will always move, our planet does not stay put. But maybe these quakes
    date: "2025-10-09",
    image: "public/56_UAAP.jpg",
    gfx: "Photos by Jeanelle Morales",
-   tags: ["News"],
+   tags: ["Sports"],
    author: "by Jamiel Pablo",
    content: `<p>The FEU Tamaraws 16-under boys’ basketball team showed their determination and rising potential in the ongoing UAAP Season 88, proving that Tamaraws young guns are ready to uphold the green and gold pride.
 Despite facing seasoned opponents, the Tamaraws decided to be brave upholding their school moto, leading the charge is Prince Cariño, who has been deadly consistent, averaging 23.5 points, 8.5 rebounds, and 1.5 assists per game, serving as the team’s primary offensive engine.
@@ -213,7 +213,7 @@ Finally, PGTA President Mrs. Guerrero wrapped up the whole program with her clos
    date: "2025-10-09",
    image: "public/54_UAAP.jpg",
    gfx: "Photos by Eleine Torres, Jeanelle Morales, Yumi Carpiso",
-   tags: ["News"],
+   tags: ["Sports"],
    author: "by Jamie Anne Manejero",
    content: `<p>Far Eastern University–Diliman (FEU-D) sustained its unbeaten streak in the UAAP Season 88 High School Boys’ Volleyball tournament by dispatching Adamson University in a thrilling four-set showdown, 25–19, 25–21, 26–28, 25–21, on Sunday at the Blue Eagle Gym.
 The Baby Tamaraws came out with poise and precision, banking on Kenneth Jan Maliwanag’s scoring barrage and Tyler Jessie Ramos’s rock-solid reception to dictate the tempo early. Their sharp ball movement and defensive discipline overwhelmed the Baby Falcons, cruising to a 25–19 win in the opening set.
@@ -291,7 +291,7 @@ Inaprubahan ng Senado ang resolusyon sa botong 15 pabor, tatlo tutol, at dalawan
    date: "2025-10-06",
    image: "public/50_UAAP.jpg",
    gfx: "Photos by Eleine Torres, Yumi Carpiso, and Jeanelle Morales",
-   tags: ["News"],
+   tags: ["Sports"],
    author: "by Jamie Anne Manejero",
    content: `<p>De La Salle Santiago Zobel (DLSZ) fought off Far Eastern University–Diliman (FEU-D) in a heated four-set showdown, 25–23, 25–18, 24–26, 25–18, to notch its third win in the UAAP Season 88 High School Girls’ Volleyball tournament on Sunday morning at the Blue Eagle Gym in Quezon City.
 The victory lifted the Junior Lady Spikers to a 3–1 record, strengthening their hold on a top-three spot as the first round nears its conclusion.
@@ -349,7 +349,7 @@ Maligayang araw ng mga Guro!
    date: "2025-10-05",
    image: "public/47_UAAP.jpg",
    gfx: "Photos by Jeanelle Morales and Jade Visperas",
-   tags: ["News"],
+   tags: ["Sports"],
    author: "by Jamie Anne Manejero",
    content: `<p>University of Santo Tomas (UST) strengthened its title bid with a hard-fought 2.5–1.5 win over Far Eastern University–Diliman (FEU-D), while Ateneo de Manila University (ADMU) and De La Salle–Zobel (DLSZ) fought to an intense 2–2 draw in Round 3 of the UAAP Season 88 High School Boys’ Chess Championship last October 4 at the Adamson Gym.
 UST’s breakthrough came on board three, where John Cyrus Borce turned the tables on King Xyan Beltran after a long defensive grind, launching a decisive counterattack that overwhelmed the FEU-D standout.
@@ -372,7 +372,7 @@ The draw kept both Ateneo and DLSZ searching for their first full match win, whi
    date: "2025-10-05",
    image: "public/46_UAAP.jpg",
    gfx: "Photos by Jeanelle Morales and Jade Visperas",
-   tags: ["News"],
+   tags: ["Sports"],
    author: "by Jamie Anne Manejero",
    content: `<p>Far Eastern University–Diliman (FEU-D) fended off a gritty University of Santo Tomas (UST) squad, 2½–1½, to stay firmly in title contention in the UAAP Season 88 High School Girls’ Chess Championship last October 4 at the Adamson Gymnasium.
 Meanwhile, De La Salle Santiago Zobel (DLSZ) and Ateneo de Manila University (ADMU) fought to a hard-earned 2–2 draw, while National University Nazareth School (NUNS) swept Adamson University (AdU) with a commanding 4–0 rout to round out the action in Round 3.
@@ -873,7 +873,7 @@ Through this, President Ferdinand “Bongbong” Marcos will be implementing a l
    date: "2025-09-03",
    image: "public/24_Rally.jpg",
    gfx: "Photos by Yana Ortiz, EJ Agtunong, Eleine Torres, Jasmine Perez, Marcus Prenda, Greg Roxas, and Jeanelle Morales",
-   tags: ["News"],
+   tags: ["Sports"],
    author: "by Shad Louie De Jesus",
    content: `<p>Pride shone in every cheer as Far Eastern University Diliman’s varsity athletes were introduced during the school’s annual TamRally.
 The event served as a showcase of the student-athletes set to represent the Tamaraws in UAAP Season 88.
@@ -891,7 +891,7 @@ As the UAAP season begins, FEU Diliman’s varsity athletes are ready to face th
    date: "2025-09-03",
    image: "public/23_Rally.jpg",
    gfx: "Photos by Eleine Torres, Greg Roxas, Lance Sindo, and Marcus Prenda<br>Assisted by Jamie Manejero and Natalia Roxas",
-   tags: ["News"],
+   tags: ["Sports"],
    author: "by Rae Anne Lacanilao",
    content: `<p>The Far Eastern University-Diliman (FEU-D) introduced the annual TamRally for this year’s UAAP Season 88, happening at the Main Building Gymnasium at 2 pm today, September 3. 
 Initially, the athletes’ entrance parade struck the crowd with excitement, notably, the teams of Volleyball Girls, Volleyball Boys, Chess Team, Football Team, and Basketball Team. 
@@ -908,7 +908,7 @@ As Tamaraw’s motto for this year, “Gold is the Goal!”, hoping for great su
    date: "2025-09-03",
    image: "public/22_Rally.jpg",
    gfx: "Photography by Mikaela de la Rea & Sloan Diez",
-   tags: ["News"],
+   tags: ["Sports"],
    author: "by Bianca Castañeda",
    content: `<p>At this long awaited event, everyone gathers at the gymnasium to welcome and rally behind the athletes who are proud to represent FEU Diliman. 💚💛
 While the FEU Diliman Cheerleaders and Drummers ignite the campus with enthusiasm, our student athletes showcase their passion and dedication to represent the school and bring home the gold once again.

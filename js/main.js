@@ -128,6 +128,10 @@ document.addEventListener("DOMContentLoaded", () => {
     if (pageName === "sports") {
       filteredArticles = window.articles.filter(article => article.tags.includes("Sports"));
     }
+    // UAAP articles filter
+    if (pageName === "uaap") {
+      filteredArticles = window.articles.filter(article => article.tags.includes("UAAP"));
+    }
     // Render articles
     function renderArticles() {
       if (!articlesGrid) return;
@@ -160,7 +164,7 @@ document.addEventListener("DOMContentLoaded", () => {
       articlesGrid.querySelectorAll('.article-card').forEach(card => {
         card.addEventListener('click', function() {
           const id = this.getAttribute('data-id');
-          window.location.href = `pages/article.html?id=${id}`;
+          window.location.href = `/pages/article.html?id=${id}`;
         });
       });
 
