@@ -10,6 +10,40 @@ const articles = [
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
 {
+   id: 65,
+   title: "A Second Chance",
+   date: "2025-10-17",
+   image: "public/65_Second.jpg",
+   gfx: "Comic by Erin Macawili",
+   tags: ["News"],
+   author: "by Chaye Selisana",
+   content: `<p>Every day, countless animals wait patiently behind the walls of local shelters—their eyes full of hope and their hearts full of love. The spark in their spirits never fades, despite the number of visitors who always pass them by. Some have been abandoned, others lost, and many have never known what a home truly feels like. Yet, even in the quiet corners of their cages, there’s still trust—the belief that someone kind will come along.
+This is what World Animal Day, on every 4th of October, should remind us of: that every living creature deserves to be treated with care and respect. It’s a call to action for all of us to show compassion in the ways we can: adopting instead of shopping, supporting local animal shelters, donating food or toys, or simply spreading awareness about animal welfare.
+Let’s stand for those who cannot speak for themselves. It doesn’t take much effort to be kind to the innocent creatures around us—whether they are old or young, big or small, or even cute or fierce. Give all of them a second chance.
+   </p>`,
+    fbLink: "https://www.facebook.com/share/p/1DMGqPgVYa/?mibextid=wwXIfr"
+},
+{
+   id: 64,
+   title: "From Depths to Disasters: the Philippine Trench’s Power to Shake a Nation",
+   date: "2025-10-16",
+   image: "public/64_Depth.jpg",
+   gfx: "Publication Material by Leanne Ajero",
+   tags: ["Sci-Tech"],
+   author: "by Sebastian Agda",
+   content: `<p>In the busy streets of Davao City, a lot of things can be noticed, from cars cruising, children frolicking around the side of the road, to a street vendor selling fresh durian in their stall. It seems normal at first but then suddenly you feel the ground start to rumble intensely, cars begin to halt and crash, the children once playing stopped to let out a sharp cry, and the street vendor you saw selling is now hiding under their stall out of terror and anxiety. This is what occurred on October 10, as a 7.4 magnitude earthquake struck Davao Oriental.
+After that incident, many suffered and questioned why earthquakes keep occurring and why they strike different parts of the Philippines so frequently; the answer lies in the activity of the Philippine Trench. The Philippine Trench is a vast and bottomless oceanic trench located east of the Philippines. It's about 1,320 kilometers long from the main island of Luzon to Halmahera Indonesia.
+Additionally, according to Insight Philippines, the Philippine Trench was formed because of the Philippine Sea Plate moving under the Eurasian Plate, this is known as subduction. The subduction mechanism between the two plates still continues to this day as the Philippine Sea Plate continues to sink 15 cm under the Eurasian Plate per year.
+Consequently, this subduction mechanism is the main component behind the recent earthquakes found in the Philippines, as this subduction mechanism generates immense stress to both of the plates and when the accumulated stress exceeds the strength of the rocks found in the plates, it then releases the stress, like a ticking time bomb waiting to explode any moment, which results in earthquakes happening.
+According to Renato U. Solidum Jr, Director of the Philippine Institute of Volcanology and Seismology (PHILVOLCS), he states that the Philippine Trench is a major feature under the ocean that causes many earthquakes in the area, and understanding its dynamics on how it works is vital for improving earthquake preparedness and further mitigating disaster impacts in the Philippines.
+Now as the ground begins to settle, rescuers attend to the injured, citizens emerge from their shelters, and everyone rejoices for their safety. But from a once calm city, chaos ensued and catastrophes transpired, the aftermath was heartbreaking for the people of Davao. Cracks in the road were formed, houses of many were in ruins, and what's worst of it all is that lives were taken.
+However, this calamity is just the beginning, based on an article from PHILVOLCS, The people in Davao Oriental can expect aftershocks in the epicentral area, the surface of where the earthquake originated. These aftershocks could persist for several days to weeks, and some may be felt in nearby provinces.
+Furthermore, PHILVOLCS also advises to prepare for aftershocks by following the “Drop, Cover, and Hold” procedure to protect yourself from injury. At home and in workplaces, secure heavy furniture, appliances, and hanging objects to prevent accidents. Lastly, exercise caution around buildings and structures showing signs of damage, and coordinate with local engineering offices for inspection and safety guidance.
+So as life slowly returns to normal in Davao Oriental, the memories of destruction and loss remain fresh in the hearts of its people. The recent earthquake was a harsh reminder of the Philippines’ vulnerability due to its location along the restless Philippine Trench. Though the earth beneath may shake and break us apart, the spirit of the Filipino people shall remain enduring and everlasting, ready to rebuild, recover, and restore harmony from a disaster caused by the depths.
+   </p>`,
+    fbLink: "https://www.facebook.com/share/p/1EECKq8wK5/"
+},
+{
    id: 63,
    title: "The Price of Absence",
    date: "2025-10-16",
