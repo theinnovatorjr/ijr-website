@@ -10,6 +10,24 @@ const articles = [
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
 {
+   id: 66,
+   title: "VP Sara: DepEd’s allocated confidential funds spent on corruption probe",
+   date: "2025-10-20",
+   image: "public/66_News.jpg",
+   gfx: "Publication Material by Kaitlin Dionisio",
+   tags: ["News"],
+   author: "by Rae Anne Lacanilao",
+   content: `<p>On Thursday, Vice President Sara Duterte revealed that the Department of Education (DepEd) used its designated confidential funds to investigate alleged corruption within the agency, specifically concerning irregular laptop purchases.
+Duterte disclosed the details as she spoke at the Pandesal Forum at the Kamuning Bakery, adding that the probe also included a ₱2.9 billion deal for outdated and overpriced laptops. 
+The laptop procurement anomalies costing ₱2.4 billion began in 2021 during the tenure of former DepEd Secretary Leonor Briones, who was among the officials charged by the Office of the Ombudsman over the alleged irregular deal.
+The laptop deal involved Sunwest Construction, owned by ex-Ako Bicol Rep. Elizaldy Co, one of the key figures in the flood control scandal.
+However, Duterte’s statement contradicted DepEd’s assertion in 2023 that they were unaware of Duterte’s depletion of ₱112.5 million funds. 
+Citing the Commission on Audit (COA), Duterte declined to comment on the use of confidential funds, stating that COA is the appropriate agency to disclose such information.
+Duterte clarified the procurement occurred not within DepEd but through the Procurement Service of the Department of Budget and Management (PS-DBM), adding they could only blacklist the companies. 
+Duterte’s failed blacklist plan was followed by investigations from COA and the Senate Blue Ribbon Committee.
+   </p>`
+},
+{
    id: 65,
    title: "A Second Chance",
    date: "2025-10-17",

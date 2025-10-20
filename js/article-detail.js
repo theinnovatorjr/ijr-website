@@ -55,9 +55,15 @@ document.addEventListener("DOMContentLoaded", function () {
           .split("\n")
           .map((p) => `<p>${p.trim()}</p>`)
           .join("")}
-          <p><i>View article on Facebook at 
-            <a href="${article.fbLink}" target="_blank" style="color: #0074d9; text-decoration: underline;">${article.fbLink}</a>
-          </i></p>
+        ${
+          article.fbLink
+            ? `<p><i>View article on Facebook at 
+                <a href="${article.fbLink}" target="_blank" style="color: #0074d9; text-decoration: underline;">
+                  ${article.fbLink}
+                </a>
+              </i></p>`
+            : ""
+        }
       </div>
     </div>
   `;
