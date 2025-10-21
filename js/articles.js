@@ -9,6 +9,42 @@ const articles = [
     author: "[Your Name]",
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
+  {
+   id: 68,
+   title: "The Opening of Red Curtains: Metro Manila's Filipino Film Festivities",
+   date: "2025-10-21",
+   image: "public/68_Feature.png",
+   gfx: "Publication Material by May Santos | Cartoon by Andrea Sablan",
+   tags: ["Feature"],
+   author: "by Sofia Aguilar",
+   content: `<p>This upcoming Christmas season, the distant sounds of people chattering, cheering and laughing—turning into a cacophony of enjoyment, while pieces of popcorn fall from the cheese-covered fingers of each person that passes by in front of you as you stare up in wonder into the lights that shine upon you.
+You, as if mesmerized, you take a few singular steps towards the picture covers[d] plastered across the cinema walls that seem to hypnotize you. Each step creating a crackling noise from under your foot, and
+By each crack, a beam of light peaks through the opening as if it resembles that of a graceful opportunity to once again, look back upon the past that only now you deem nostalgic. But peaking through that whiteness, we capture a sight of the beaming beauty of Filipino Films.
+Now celebrating its 51st annual year, each year that goes by is a “New Era for Philippine Cinema”. Filipino films evolve, conjure our nostalgic past only for it to turn better, progressing into this snowball of chilling, surprising, and thrilling shows that will surely charm us into setting our eyes straight on one thing only–The screen that will play out our romantic fantasies, baring into life our hidden aspiration, and unraveling the raveled.
+Presenting to you, the Metro Manila Film Festival, where movie theaters encircle upon Filipino Films to which we learn to admire that of our own cultural, traditional stories.
+This event gives us an opportunity to celebrate the films made by Filipino directors and their admirable imagination to come up with scripts and scenes that, of course, never fails to make us chuckle or squirm in our seats, and even activate our very own imagination, and inspire us.
+The Metro Manila Film Festival exhibits a colorful creativity, refracting towards the mirror of our own unique Filipino culture and imagination that fascinates into wonderful scenes in a film that will never fail to elicit a reaction from all of us. 
+This year’s upcoming MMFF will be bright like the moon, bigger than before, and prouder than ever for us Filipinos to celebrate the never-ending stories of what we still have to tell, and what we still have to show even under the falling snowflakes that will mirror the proud, inspirational us. 
+This year’s Film Festival will prove only one thing–Filipino films aren’t just made for this Christmas season, but to expose the spectacle of our minds, of our country, of our creativity and of our souls as being Filipinos.
+</p>`
+},
+{
+   id: 67,
+   title: "FEU Diliman hosts student exchange program",
+   date: "2025-10-21",
+   image: "public/67_News.jpg",
+   gfx: "Photos by Eleine Torres, Yana Ortiz, Yumi Carpiso, Ciree Carillo, and Jeanelle Morales",
+   tags: ["News"],
+   author: "by Kaitlin Dionisio",
+   content: `<p>On October 21, 2025, Grade 12 students of FEU Diliman gathered at the main building to welcome the student exchange delegates of FEU Alabang and their guests from Hsin Chuang Senior High School, Taiwan.
+By 8:30 a.m., students lined up along the main building pathway to prepare for the guests’ arrival.
+The delegates were warmly welcomed and later proceeded to the Annex Building, where the Novians performed a cultural dance.
+Dr. Armi Yabut, delivered the opening remarks to officially start the program.
+Special performances from FEU Diliman’s college department groups followed, featuring renditions of Taiwanese songs.
+After the program, the delegates toured the Diliman campus, guided by student representatives.
+The event, made possible by the Industry, Academe, Linkage, Alumni, and Placement (IALAP) Office, ended with smiles and warm thanks, marking the beginning of a new bond between the schools.
+</p>`
+},
 {
    id: 66,
    title: "VP Sara: DepEd’s allocated confidential funds spent on corruption probe",
