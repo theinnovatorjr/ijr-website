@@ -9,13 +9,35 @@ const articles = [
     author: "[Your Name]",
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
+ {
+   id: 69,
+   title: "Weighting Game",
+   date: "2025-10-22",
+   image: "public/69_Editorial.png",
+   gfx: "Publication Material by Andrea Gonzales | Cartoon by Ford Regoso",
+   tags: ["Opinion"],
+   author: "by Matthew Piamonte",
+   content: `<p>The longer it waits, the heavier the injustice weighs.
+It has been 92 days since anomalies surrounding the Flood Control Projects in the Philippines erupted. Though the controversy began in 2024, public attention wasn’t truly stirred until President Bongbong Marcos mentioned these projects in his State of the Nation Address (SONA) back July 22, 2025. With over 5,500 projects amounting to ₱500 billion (US$8.99 billion) over the next 13 years, the public now demands consequences—and justice.
+Step 1: Checked. Several government officials and agencies involved in these so-called “ghost projects” have been exposed. Some have resigned or been forced out of office—among them Ferdinand Martin G. Romualdez, Speaker of the House of Representatives, and Senate President Francis “Chiz” Escudero.
+Step 2: Checked. The people have awakened. Filipinos refuse to be seen merely as “resilient heroes,” romanticized for enduring hardship. The Trillion Peso Rally roared through the streets, demanding accountability and punishment for those who stole the nation’s funds.
+Step 3: Checked. Evidence has been presented. Hearings, audits, and validations are paving the way for prosecution. The stricter approval process for flood-control projects by the Investment Coordination Committee offers some reassurance that justice might be served.
+And yet—justice remains untouched. It sits idle on the counter, waiting to rot, while the accused buy time to plot their escape. Speaker Romualdez resigned under the guise of “empathy,” claiming:
+“The longer I stay, the heavier that burden grows on me, on the House, and on the President.”
+One word can describe this statement: gnarly—and not in a good way. There was no guilt, no transparency—only escapism. It was sympathy turned into a knife. President Marcos responded, insisting that transparency should be shown through action, not resignation. But given his own family’s history of ill-gotten wealth, some view his stance as an appeal to authority—or hypocrisy.
+Their words sound convincing, yet they leave a metallic aftertaste, like blood on the tongue—sharp and unpleasant. The nation knows there’s more to be done. These so-called leaders, wolves in human clothing, have done the bare minimum. What we are witnessing is borders on selective justice—if not outright impunity.
+Steal a small amount, and you’ll end up behind bars. Steal billions, and you’ll get a hearing, a handshake, and time to let the outrage fade. It’s as if this case is deliberately being weighed down, waiting for the issue to sink.
+But the public must keep the pressure alive. Filipinos must not become hypocritical crocodiles—loud but toothless. They must continue to weigh down on those responsible and demand accountability. After all, it is Filipino taxes being stolen, only to be treated like garbage bags floating in the flood—admired for surviving rather than questioned for why they were there in the first place.
+Patience is a virtue, yes—but when patience shelters injustice, does it remain a virtue? Or is virtue now a standard that applies only to the citizens, and never to those who govern them?
+</p>`
+},
   {
    id: 68,
    title: "The Opening of Red Curtains: Metro Manila's Filipino Film Festivities",
    date: "2025-10-21",
    image: "public/68_Feature.png",
    gfx: "Publication Material by May Santos | Cartoon by Andrea Sablan",
-   tags: ["Feature"],
+   tags: ["Literary"],
    author: "by Sofia Aguilar",
    content: `<p>This upcoming Christmas season, the distant sounds of people chattering, cheering and laughing—turning into a cacophony of enjoyment, while pieces of popcorn fall from the cheese-covered fingers of each person that passes by in front of you as you stare up in wonder into the lights that shine upon you.
 You, as if mesmerized, you take a few singular steps towards the picture covers[d] plastered across the cinema walls that seem to hypnotize you. Each step creating a crackling noise from under your foot, and
