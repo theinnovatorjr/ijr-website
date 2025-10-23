@@ -10,6 +10,23 @@ const articles = [
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
  {
+   id: 70,
+   title: "The Overlooked Outbreak: How the 2025 Season is Testing Our Immunity",
+   date: "2025-10-23",
+   image: "public/70_Sci.png",
+   gfx: "Publication Material by Nathan Cabatuando",
+   tags: ["Sci-Tech"],
+   author: "by Zairah Gutierrez",
+   content: `<p>It starts like any ordinary cough — but this year’s flu season is proving anything but ordinary. Across the globe, millions have been struck by influenza’s sudden fever, aching fatigue, and chilling return. From the noise of the cities to quiet neighborhoods, the seasonal flu of 2025 is reminding the world that even with the vaccines and advanced medicine, one tiny virus can still bring a downfall to many. In the Philippines, health experts are keeping a close watch as cases rise, urging the public to stay aware, get vaccinated, and fight back while there's still time.
+Maybe you’ve brushed it off before, a few days of fever, some body aches, nothing a bit of rest can’t fix. But for others, that same “simple flu” turns into a hospital bed, a struggle to breathe, or a goodbye that came too soon. The truth is, influenza doesn’t choose its victims based on age or strength; it finds its way into homes, classrooms, and offices alike. In every sneeze ignored and every vaccine skipped, the flu quietly grows stronger.
+Awareness isn’t just science, it’s survival. According to the World Health Organization (WHO), influenza is a contagious viral respiratory infection caused primarily by influenza A and B viruses–causing outbreaks aren’t new, yet their impact remains huge. The Centers for Disease Control and Prevention (CDC) estimated 43 to 73 million symptomatic illnesses and up to 99,000 deaths in the United States alone during the 2024–2025 flu season.
+Behind those numbers are lives disrupted, families worried, and communities reminded that this so-called “common flu” is anything but ordinary. The predominant strains, influenza A, took the lead early in the season, followed by a late increase in influenza B. Yet, even amid the threat, CDC or Centers for Disease Control and Prevention affirm how the vaccination stood as a quiet shield, preventing millions of illnesses and thousands of hospitalizations.
+Symptoms creep in quietly, showing up as a fever, cough, or the ache that makes every breath harder to control. Within just one to four days after exposure, fatigue sets in, and chills spread throughout your body. These symptoms can lead to something far worse like pneumonia, or a dangerous worsening of pre-existing conditions. Reminding us that comfort, or pretending that it’s okay, can turn into a huge concern.
+In the Philippines, the Department of Health (DOH) recorded around 127,749 influenza-like illness cases from January to early October 2025, a slight change from the previous year, but still a number that speaks more about how easily the virus finds its way into daily life. While no official outbreak was declared, experts from the Philippine Society for Microbiology confirmed ongoing community transmission. Through vaccination drives, hygiene campaigns, and public reminders, the country continues its fight.
+Influenza doesn’t ask for attention, it simply takes it when we’re not looking. Behind every statistic is a face, a name, and a story that could’ve been spared with awareness and action. As health organizations continue to track and prevent its spread, our role is just as vital: to care enough to be cautious, and to protect those most at risk. The seasonal flu may not trend on social media or dominate the news, but in the quiet corners of hospitals and homes, its presence is felt. And this year, perhaps more than ever, recognizing it is the first step to finally defeating it.
+</p>`
+},
+ {
    id: 69,
    title: "Weighting Game",
    date: "2025-10-22",
