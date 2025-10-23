@@ -10,6 +10,19 @@ const articles = [
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
  {
+   id: 71,
+   title: "Unheard",
+   date: "2025-10-24",
+   image: "public/71_Comic.png",
+   gfx: "Comic by Lian Fae Taguinod | Publication Material by Chaye Selisana",
+   tags: ["Comics"],
+   author: "by Chaye Selisana",
+   content: `<p>They call Filipinos resilient—as if it were a compliment. As if it’s a gift to survive floodwaters or rebuild from the rubble with bare hands. Yet, behind every praise for strength lies a quiet ache: the truth that people have been forced to endure what they should have been protected from.
+Resilience was never meant to replace responsibility. But all too often, it’s used to glorify survival instead of preventing suffering. Each storm, earthquake, and flood repeats the same pattern: admiration for endurance, silence for accountability.
+The Filipino people are not merely resilient; they are exhausted, grieving, and hopeful all at once. Perhaps the bravest thing they can do now is to admit that endurance alone is no longer enough.
+</p>`
+},
+ {
    id: 70,
    title: "The Overlooked Outbreak: How the 2025 Season is Testing Our Immunity",
    date: "2025-10-23",
@@ -108,7 +121,7 @@ Duterte’s failed blacklist plan was followed by investigations from COA and th
    date: "2025-10-17",
    image: "public/65_Second.jpg",
    gfx: "Comic by Erin Macawili",
-   tags: ["News"],
+   tags: ["Comics"],
    author: "by Chaye Selisana",
    content: `<p>Every day, countless animals wait patiently behind the walls of local shelters—their eyes full of hope and their hearts full of love. The spark in their spirits never fades, despite the number of visitors who always pass them by. Some have been abandoned, others lost, and many have never known what a home truly feels like. Yet, even in the quiet corners of their cages, there’s still trust—the belief that someone kind will come along.
 This is what World Animal Day, on every 4th of October, should remind us of: that every living creature deserves to be treated with care and respect. It’s a call to action for all of us to show compassion in the ways we can: adopting instead of shopping, supporting local animal shelters, donating food or toys, or simply spreading awareness about animal welfare.
