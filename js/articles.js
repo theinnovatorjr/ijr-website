@@ -9,6 +9,25 @@ const articles = [
     author: "[Your Name]",
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
+  {
+   id: 72,
+   title: "President Marcos heads to Malaysia as 47th ASEAN Summit commences",
+   date: "2025-10-27",
+   image: "public/72_News.png",
+   gfx: "Publication Material by Nathan Cabatuando",
+   tags: ["News"],
+   author: "by Nathan Cabatuando",
+   content: `<p>On Saturday, October 25, President Ferdinand Marcos departed Manila to attend the 47th ASEAN Summit and related Summits.
+Before the day of his departure, the president stated he will press on issues concerning the South China Sea and global conflicts, such as climate change, economic liability, transnational crime, and Myanmar's terrorist situation.
+Despite global concerns, Marcos ensured that the Philippines would be highlighted, pushing for proper trade and fighting against economic challenges to build a future ready nation.
+Upon arrival, the President and First Lady Louise Araneta-Marcos received warm welcomes from Malaysian officials as the summit commenced.
+"As always, our participation in the ASEAN Summit reaffirms our dedication to deepening regional cooperation and to advancing the well-being of every Filipino and the entire Southeast Asian community," President Marcos stated.
+Furthermore, the President stressed the Philippines commitment in the wider Southeast Asian communities as the ASEAN Chairmanship position heads to Manila in 2026.
+Additionally, the summit addresses crucial concerns, such as regional and global conflicts, health, tariffs from the United States, corruption, addition of Timor-Leste to ASEAN, and education among the nations.
+As 80 outcome documents are expected to be released as a conclusion of the summit.
+Summit is set to last a span of three days, ending on October 28. South East Asian Leaders unite to solve and conquer adversities affecting their countries and to take action back in the hands of the people.
+</p>`
+},
  {
    id: 71,
    title: "Unheard",
