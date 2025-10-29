@@ -10,6 +10,53 @@ const articles = [
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
   {
+   id: 73,
+   title: "THRU THEIR EYES: Discovering Emman Atienza and her advocacies, mental health, and Generation Z—through the eyes of a fellow Gen-Z.",
+   date: "2025-10-30",
+   image: "public/73_Feature.png",
+   gfx: "Publication Material by Jade Visperas",
+   tags: ["Feature"],
+   author: "by Jade Visperas",
+   content: `<p>Last October 10, the world recently celebrated ‘World Mental Health Day’. A taboo topic for a conservative nation, such as the Philippines, yet the words must be said and not let our lips left zipped. 
+	Emman Atienza, a Filipino social media personality and a mental health advocate who had recently passed away, had brought light to the discussion of mental health to the digital pool of Filipinos, as a nation. 
+	Considering this, we ask a focal question for the Filipinos: Could the Filipinos now see eye-to-eye in placing significance on mental health, albeit the taboo and stigmas surrounding it?
+<strong>EYE-TO-EYE: Emmanuelle H. Atienza</strong>
+	Emmanuelle ‘Emman’ Hung Atienza, commonly referred to as ‘Emman Atienza’ on her social media platforms, was a Filipino social media personality and mental health advocate. A daughter to Alejandro ‘Kuya Kim’ Ilagan Atienza and Felicia Atienza.
+She had openly spoken up on mental health, introspection, and socio-political issues in the Philippines through her platforms. 
+	Emman Atienza passed away by suicide through ligature hanging on Wednesday, October 20, 2025, in her Los Angeles home, according to the L.A. County medical examiner’s website. 
+	On October 24, 2025, two days after Emman’s death, Felicia Atienza formally announced the passing of her daughter.
+	“To honor Emman’s memory, we hope you carry forward the qualities she lived by: compassion, courage, and a little extra kindness in your everyday life.” said the caption on Felicia Atienza’s Instagram account, @feliciaatienza. 
+	<strong>MORE THAN MEETS THE EYE:</strong> While some may only know Emman Atienza through her humorous and entertaining content, or as ‘Kuya Kim’s daughter’, she had long before advocated and voiced out about mental health and her story. 
+	Emman Atienza was an active member of a non-profit organization, One Race for Filipino Services Inc. (ORFFS), having volunteered in different outreach programs in different parts of the Philippines. 
+According to a recent post on Facebook by League of Filipino Students, Emman was a member of the League and a convenor of the Filipino Youth 4 Palestine. 
+	She was also a co-founder of Mentality Manila in 2022, a non-profit ‘youth collective’ page on Instagram, sharing educational posts on mental health. 
+	“With the help of Alaire Dominguez, Gian Angeles and Amadine Alcantara, Mentality Manila came to life. Starting with simple online posts and a purely virtual platform, the youth collective is actively progressing into a physical presence to reach the common goal of helping to destigmatise mental health in the Philippines.” said Emman to Jove Moya of Tatler Asia. 
+	Furthermore, in the same year, Emman had undergone a psychological evaluation. She was diagnosed with Complex Post-Traumatic Stress Disorder (CPTSD), Bipolar Disorder, and Attention Deficit Hyperactivity Disorder (ADHD) with borderline and paranoid features, according to Tatler Asia. 
+	Through numerous media outlets, such as Tatler Asia, public personalities like Toni Gonzaga on ‘Toni Talks’, Killa Kush on ‘Bad B*tch Bible podcast’, and different non-governmental organizations----these contributed to documenting and bringing the story of Emman Atienza alive and known to the eyes of a conservative nation, through the screen. 
+<strong>WE, FILIPINOS: Mental Health and Gen-Z</strong>
+	Filipinos tend to shy away from the table when it comes to discussing mental health. This thinking passed down from generations-to-generations, primarily due to our tradition of having a ‘piece of shame’, and the Philippines’ history that subdues us to being a tongue-tied, docile nation. 
+	However, as time goes on, the upcoming generations of Filipinos take a stand for change using social media platforms such as TikTok and Instagram.
+	Through this, our generation (Gen-Z) gains a platform to speak our mind. To have a sense of self and a community alike. 
+	Though in every place, what is good could be outdone by unnecessary loathing. This applies to the Gen-Z’s act of activism; a strive for change (though a common pattern for every generation), as well as the general use of social media. 
+	“Don't get me wrong, i can handle hate. ive gotten death threats from DDS everyday, misogynists in my comments telling me im stupid, burner accounts of high school bullies trying to egg me on. none of that has really phased me that much,” Emman Atienza opens up on her broadcast channel on Instagram, @emmanatienza.
+	Despite her disconcerted approach to hate, what does it really bring to the table if we spew abhorring messages? Should we not be better than this? 
+Somehow, even through this situation, we could assess that we are divided as a nation. Though we reconcile at wrong matters, some even lose their sense of proper judgement and morality. 
+	With the recently celebrated ‘World Mental Health Day’ last Friday, October 10—this brings more significant weight to the situation.
+	The thing is: we, as a whole, must not allow ourselves to bring down our own children. The youth must be uplifted and protected, applying it to the following generations to come. We make and shape our home for the next few years with our voice. 
+	Uplift the youth, do not bring them down. 
+Moreso, even if one is past their youth years, the concept of human decency must be applied. Filipinos, though praised for our resilience and ability to persevere, does not the pattern of hate-spew in different social media platforms communicate ‘a cry out for help’? Though that is a topic for another discussion.
+<strong>THE MAIN TAKEAWAY</strong>
+We have learned that the body is made out of matter. However, one may tend to overlook that the mind and the soul feed on words and the environment one is in. Dependent on these two, this could either lead the body to deteriorate or to flourish.
+Indeed, the generation Z, especially at the height of the COVID-19 pandemic, finds itself mostly immersed in the unsupervised digital walls. Unsupervised, meaning: full of uncertainty, unpredictability, and precariousness to the eyes of the target. 
+A child on social media, without further supervision, remains a gamble to this day. It could spur personal growth, or take a toll on their mental health. 
+As in the digital world, there is no sense of accountability. No sense of human. A pool of hate-spew. It could serve as a realm of echo chambers; endless frenzies and hype cycles. 
+Words on social media, such as TikTok and Instagram, easily come out like huff-and-puff. Like a gush of the wind. Easy to let out, but not easy to let go. 
+Certainly, as our devices become prominent in navigating bonds, friendships, and work, we must be reminded of something simple: 
+It takes nothing but patience to be kind. It takes something like vain to be hateful.
+The Innovator Jr. extends deepest condolences to the Atienza Family for the recent passing of Emmanuelle Atienza. 
+</p>`
+},
+  {
    id: 72,
    title: "President Marcos heads to Malaysia as 47th ASEAN Summit commences",
    date: "2025-10-27",
