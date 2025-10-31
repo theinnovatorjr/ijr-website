@@ -43,7 +43,7 @@ He reached for my hand again—oh, how the smallest of gestures can be the grand
    date: "2025-10-31",
    image: "public/74_News.png",
    gfx: "Publication Material ni Andrea Gonzales",
-   tags: ["News"],
+   tags: ["Feature"],
    author: "ni Justine Valeza",
    content: `<p>Isang taon na ang nakalipas mula nang ideklara ni President Ferdinand Marcos Jr. ang na ang ika-31 ng Oktubre, o mas kilala bilang Bisperas ng Araw ng Santo, bilang karagdagang “Special Non-Working Holiday” para sa taong 2025. 
 Layunin ng proklamasyon na ito na paunlarin ang lokal na turismo, at bawasan ang sikip at siksikan sa mga sementeryo, terminal, at kalsada tuwing undas. 
