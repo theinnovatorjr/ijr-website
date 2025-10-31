@@ -39,7 +39,7 @@ He reached for my hand again—oh, how the smallest of gestures can be the grand
 },
 {
    id: 74,
-   title: "Special Non-Working Holiday: Tamaraws, SEMBREAK na!",
+   title: "Isang Araw ng Pahinga, Pag-alala",
    date: "2025-10-31",
    image: "public/74_News.png",
    gfx: "Publication Material ni Andrea Gonzales",
@@ -50,14 +50,14 @@ Layunin ng proklamasyon na ito na paunlarin ang lokal na turismo, at bawasan ang
 Ngunit ang pinaka-ubod ng deklarasyon, ayon sa Presidente,  ay upang patibayin ang ugnayan ng mga pamilya sa pamamagitan ng pagbibigay ng oras para sa pagpapahinga, pagluluksa, paggugunita, at pagpapahalaga sa oras na mayroon ang bawat pamilya. 
 Sa tuwing papalapit na ang araw ng Nobyembre, madalas nating iugnay ang Undas sa mga nakakakilabot na programa gaya ng KMJS: Gabi ng Lagim at Magandang Gabi Bayan. Bahagi na ng kulturang Pilipino ang magtakutan sa ganitong panahon. Ngunit higit sa mga kuwento ng kababalaghan, ang Undas ay panahon ng paggunita. Dahil sa likod ng dilim ng gabi ng mga kaluluwa, nariyan ang liwanag ng mga kandilang itinitirik at alindog ng samot-saring mga bulaklak na iniaalay natin para sa mga namayapang mahal sa buhay. 
 Kaya ay itinakdang ‘special non-working holiday’ ang Oktubre 31—upang magsilbing hudyat ng sandaling pagpapahinga para sa katahimikan at kapayapaan bago ang paggunita ng mga Araw ng Santo at Kaluluwa.
-Bakit nga ba mahalaga ang paghahanda para gunitain ang Araw ng mga Santo? 
+<strong>Bakit nga ba mahalaga ang paghahanda para gunitain ang Araw ng mga Santo?</strong>
 Ang araw na ito ay hindi lamang nagsisilbing araw na naka-laan para sa mga bakasyon at magsasaya. Ito ay paanyaya para huminto at magnilay. Ito ang pagkakataon na makapiling at mag-bonding ang bawat pamilya sa salo-salo, sa pag-uwi ng probinsya, o sa sabay-sabay na pag-aalay ng kandila at panalangin. Ito rin ang sandali para makapagmuni-muni tungkol sa buhay na tinahak ng mga nauna sa atin. 
 Mabuting alalahanin din na kasama rin sa ating pinaghahandaan ang Araw ng mga Santo. Ang araw na ito ay marka ng kabutihan na iniwan ng mga taong nagsilbing ilaw, huwaran, at inspirasyon sa iba, tulad ng mga namayapang mahal sa buhay. Sa kabila ng modernong panahon at abalang iskedyul na sabayan pa ng patong-patong na mga problemang pansarili at pambansa, mahalaga na nariyan pa rin ang kultura ng pagkakaisa sa bawat Pilipino. 
 Marapat na tayo ay makapag-laan pa rin ng panahon para parangalan ang buhay ng mga tao na minsan ay naging bahagi rin ng lupang ating tinatapakan, lalo na kung sila ay mga tao na nananatiling buhay sa ating puso.
 Sa gabi ng Oktubre 31, habang ang iba ay dumadalo sa mga maiingay na Halloween party nang naka-costume at isinasaalang ang kanilang mga paboritong horror movies—marami rin ang nag-aalay ng dasal sa katahimikan ng kani-kanilang mga tahanan. 
 Maging ito man ay oras ng kasiyahan o kapayapaan ng pagninilay, iisa ang diwa: ang pagbabalik-tanaw sa ating mga alaala at pagmamahal sa mga pumanaw.
 Ang araw na ito ay higit pa sa araw ng pagpapahinga mula sa bagsik ng school-works at pagod sa mga aktibidad—ito ay paalala na ang buhay, gaya ng mga kandilang ating sinisindihan, ay nagniningning sa alaala at pag-ibig na patuloy nating nananatili sa mayaman na tradisyon ng mga Pilipino.
-Kaya Tamaraws, magpahinga tayong lahat. Sabay-sabay nating gunitain ang lakbay ng lahat ng kaluluwa na nag-iwan ng bakas ng presensya at init ng pagmamahal na hindi kumukupas sa paglipas ng mga malalamig na gabi. Mapayapang Undas sa lahat!
+Kaya sa paparating na undas, sabay-sabay gunitain ang lakbay ng lahat ng kaluluwa na nag-iwan ng bakas ng presensya at pagmamahal na hindi kumukupas sa paglipas ng mga malalamig na gabi. Isang mapayapang undas para sa mga Pilipino!
 </p>`
 },
   {
