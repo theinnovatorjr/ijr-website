@@ -9,15 +9,66 @@ const articles = [
     author: "[Your Name]",
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
+{
+   id: 75,
+   title: "“Is this the end for us?”",
+   date: "2025-10-31",
+   image: "public/75_Museum.png",
+   gfx: "Publication Material by Chaye Selisana",
+   tags: ["Literary"],
+   author: "by Lance Leal",
+   content: `<p>I’ve always had a deep fondness for museums. How can a place be so stuck in time, yet still have enough room for growth to walk by? There’s something beautiful in that stillness, how paintings and artworks stay the same while its surroundings change. How the building can be renovated so many times but the art stays the same. 
+My boyfriend knows how much this year means to me. It’s my last year in senior high before stepping into the big mess that is college, and I promised myself I’d give everything I have—every hour, every sleepless night, every amount of life I can give—to make it count, to leave an imprint on people, to leave a legacy—whatever that may be. 
+I wanted to prove to myself that all the years of pressure and effort were worth something, will lead to something, that I could finally stand on my own. But somewhere between chasing deadlines and daydreams had I stopped noticing how fast the days were passing—and how I was slowly losing time for him.
+Lately, life has felt like an endless race. I wake up already exhausted, my mind running though the list of things to do for the day. Deadlines, submissions, meetings, extracurriculars—it seemed to never come to an end. Till it came to October where things seemed to get worse. Events after events after events, whether it's for the school publication, some organization, or just tasks as an ordinary student. There’s only so much time in a day. There’s only so much life I can give. It’s tiring, this constant chasing. It feels as if I’m running out of time.
+He’s always been patient. When I couldn’t make it to our usual after class dates, he’d tell me to take a rest. When I forget to reply for a whole day, he’d send me a picture of himself instead of a complaint. But patience has its limits, too.
+That night, we were walking down the street where we always used to walk down. The streetlight flickered, the road was still a mess from the construction. We entered his home, went to his bedroom. I was explaining why I couldn’t make it to our museum date that we’d planned. I had an article to finish, a paper to start, a summative assessment to study for, a competition to attend to. He just nodded, at first I was worried I may have stepped too close to the sun for my own good. His voice broke the silence of the night, sharp as a knife.
+“Be honest to me… Is this the end for us?”
+The question struck me like lightning in a bottle. It was the kind of question that doesn’t need an answer right away, because the silence between us after it says everything that needed to be said by words. There was a lump in my throat that I could not get rid of with a single cough. I wanted to tell him no, that of course I still love him, it's just that I’m a busy person. But at that moment, I wasn’t sure myself. Not because I didn’t love him—but because I had forgotten how to feel love. I was exhausted—physically, emotionally, and mentally.
+I worked so hard on building a world for the boy that I loved most without realizing I left him behind in doing so. We both stared at each other, a river slowly formed beneath my eyes. I realized that it had been nearly two months since we’d gone out together. Two months of postponed plans, unread messages, and quiet understanding that had turned into grieving pain for the living. I had been treating our relationship like another task on my to-do list—something to check off when done.
+His shoulders caught me when I broke down not from guilt but exhaustion. From the endless fight with myself on trying to prove something when everyone already knows I’ve long proved myself worthy of what I have. From the tears that I was becoming someone who gave his best to everything except the person he loved most.
+He didn’t say much after that. He just sat there next to me, in silence, his hands resting gently on my thighs. I could feel his understanding with each stare we had to each other. An unspoken truth that if it ever came down to it, I would choose my future over him. And he wouldn’t stop me.
+But maybe, I thought, the future I’ve been working so hard for shouldn’t come at the cost of the present. Maybe the life I’ve been chasing for so long is in front of me—sitting beside me, in the dim light of his bedroom.
+A week later, I asked him if he still wanted to go to the Vargas Museum in UP Diliman. He smiled, surprised, and said yes.
+We went there one afternoon. The air was fresh, it felt like the first meeting we had when we were just worrying about the UPCAT. We walked through the exhibit slowly for once. Paintings, sculptures, photographs—every piece felt like it was suspended in time.
+That’s what I’ve always loved about museums, how they hold stillness without losing meaning over time. How they preserve what we often rush past.
+Maybe that’s why it felt right to be there—during October, the Museum and Galleries Month, a celebration of things that endure. A month of new beginnings where we shed what is of old to make space and prepare for growth.
+I realized that I had been living my life like a marathon, believing that slowing down is to fall behind. But standing there beside him, in a room full of captured moments and stories, I understood that everything that is worth keeping is not meant to be chased. Sometimes, love, like art, only survives when you stop running and instead appreciate it in front of you. It demands patience for a space for understanding.
+He reached for my hand again—oh, how the smallest of gestures can be the grandest of love there is. I felt something ease inside me. Maybe I couldn’t promise him all my time, but I could promise him this moment in time. And maybe that’s what he’d been asking from me all along, time. And this time, I finally have.
+</p>`
+},
+{
+   id: 74,
+   title: "Special Non-Working Holiday: Tamaraws, SEMBREAK na!",
+   date: "2025-10-31",
+   image: "public/74_News.png",
+   gfx: "Publication Material ni Andrea Gonzales",
+   tags: ["News"],
+   author: "ni Justine Valeza",
+   content: `<p>Isang taon na ang nakalipas mula nang ideklara ni President Ferdinand Marcos Jr. ang na ang ika-31 ng Oktubre, o mas kilala bilang Bisperas ng Araw ng Santo, bilang karagdagang “Special Non-Working Holiday” para sa taong 2025. 
+Layunin ng proklamasyon na ito na paunlarin ang lokal na turismo, at bawasan ang sikip at siksikan sa mga sementeryo, terminal, at kalsada tuwing undas. 
+Ngunit ang pinaka-ubod ng deklarasyon, ayon sa Presidente,  ay upang patibayin ang ugnayan ng mga pamilya sa pamamagitan ng pagbibigay ng oras para sa pagpapahinga, pagluluksa, paggugunita, at pagpapahalaga sa oras na mayroon ang bawat pamilya. 
+Sa tuwing papalapit na ang araw ng Nobyembre, madalas nating iugnay ang Undas sa mga nakakakilabot na programa gaya ng KMJS: Gabi ng Lagim at Magandang Gabi Bayan. Bahagi na ng kulturang Pilipino ang magtakutan sa ganitong panahon. Ngunit higit sa mga kuwento ng kababalaghan, ang Undas ay panahon ng paggunita. Dahil sa likod ng dilim ng gabi ng mga kaluluwa, nariyan ang liwanag ng mga kandilang itinitirik at alindog ng samot-saring mga bulaklak na iniaalay natin para sa mga namayapang mahal sa buhay. 
+Kaya ay itinakdang ‘special non-working holiday’ ang Oktubre 31—upang magsilbing hudyat ng sandaling pagpapahinga para sa katahimikan at kapayapaan bago ang paggunita ng mga Araw ng Santo at Kaluluwa.
+Bakit nga ba mahalaga ang paghahanda para gunitain ang Araw ng mga Santo? 
+Ang araw na ito ay hindi lamang nagsisilbing araw na naka-laan para sa mga bakasyon at magsasaya. Ito ay paanyaya para huminto at magnilay. Ito ang pagkakataon na makapiling at mag-bonding ang bawat pamilya sa salo-salo, sa pag-uwi ng probinsya, o sa sabay-sabay na pag-aalay ng kandila at panalangin. Ito rin ang sandali para makapagmuni-muni tungkol sa buhay na tinahak ng mga nauna sa atin. 
+Mabuting alalahanin din na kasama rin sa ating pinaghahandaan ang Araw ng mga Santo. Ang araw na ito ay marka ng kabutihan na iniwan ng mga taong nagsilbing ilaw, huwaran, at inspirasyon sa iba, tulad ng mga namayapang mahal sa buhay. Sa kabila ng modernong panahon at abalang iskedyul na sabayan pa ng patong-patong na mga problemang pansarili at pambansa, mahalaga na nariyan pa rin ang kultura ng pagkakaisa sa bawat Pilipino. 
+Marapat na tayo ay makapag-laan pa rin ng panahon para parangalan ang buhay ng mga tao na minsan ay naging bahagi rin ng lupang ating tinatapakan, lalo na kung sila ay mga tao na nananatiling buhay sa ating puso.
+Sa gabi ng Oktubre 31, habang ang iba ay dumadalo sa mga maiingay na Halloween party nang naka-costume at isinasaalang ang kanilang mga paboritong horror movies—marami rin ang nag-aalay ng dasal sa katahimikan ng kani-kanilang mga tahanan. 
+Maging ito man ay oras ng kasiyahan o kapayapaan ng pagninilay, iisa ang diwa: ang pagbabalik-tanaw sa ating mga alaala at pagmamahal sa mga pumanaw.
+Ang araw na ito ay higit pa sa araw ng pagpapahinga mula sa bagsik ng school-works at pagod sa mga aktibidad—ito ay paalala na ang buhay, gaya ng mga kandilang ating sinisindihan, ay nagniningning sa alaala at pag-ibig na patuloy nating nananatili sa mayaman na tradisyon ng mga Pilipino.
+Kaya Tamaraws, magpahinga tayong lahat. Sabay-sabay nating gunitain ang lakbay ng lahat ng kaluluwa na nag-iwan ng bakas ng presensya at init ng pagmamahal na hindi kumukupas sa paglipas ng mga malalamig na gabi. Mapayapang Undas sa lahat!
+</p>`
+},
   {
    id: 73,
-   title: "THRU THEIR EYES: Discovering Emman Atienza and her advocacies, mental health, and Generation Z—through the eyes of a fellow Gen-Z.",
+   title: "Thru Their Eyes",
    date: "2025-10-30",
    image: "public/73_Feature.png",
    gfx: "Publication Material by Jade Visperas",
    tags: ["Feature"],
    author: "by Jade Visperas",
-   content: `<p>Last October 10, the world recently celebrated ‘World Mental Health Day’. A taboo topic for a conservative nation, such as the Philippines, yet the words must be said and not let our lips left zipped. 
+   content: `<h4 class="hero-subtitle">Discovering Emman Atienza and her advocacies, mental health, and Generation Z—through the eyes of a fellow Gen-Z.</h4><p>Last October 10, the world recently celebrated ‘World Mental Health Day’. A taboo topic for a conservative nation, such as the Philippines, yet the words must be said and not let our lips left zipped. 
 	Emman Atienza, a Filipino social media personality and a mental health advocate who had recently passed away, had brought light to the discussion of mental health to the digital pool of Filipinos, as a nation. 
 	Considering this, we ask a focal question for the Filipinos: Could the Filipinos now see eye-to-eye in placing significance on mental health, albeit the taboo and stigmas surrounding it?
 <strong>EYE-TO-EYE: Emmanuelle H. Atienza</strong>
