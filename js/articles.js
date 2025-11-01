@@ -10,6 +10,30 @@ const articles = [
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
 {
+   id: 76,
+   title: "“The Candle That Sparks Every First of November.",
+   date: "2025-11-1",
+   image: "public/76_Help.png",
+   gfx: "Publication Material by May Santos",
+   tags: ["Feature"],
+   author: "by Sofia Anne Aguilar",
+   content: `<p>In the dim light of every corner of the night comes the spark from candles ignited by the ever-solemn faith of our Saints, and the words they utter that spread wisdom and beloved truth.
+With every melting candle and every wisp of smoke that treads the air are whispered words of honor to all our Saints, the Apostles, the Martyrs, the Confessors, and by the words of Pope Gregory III: “Of all the just made perfect who are at rest throughout the world.”
+Alongside the lit candles drifts the flowery scent of white chrysanthemums, symbolizing remembrance and the path that was made, representing two roads of purity, respect, honor, and virtue that our beloved Saints have crossed. The church bells ring among the scent and the residue of smoke, vibrating through sound waves to our ears like a call to prayer for souls, in their honor.
+And with every petal that falls to the ground comes an awakening, a new path, a new beginning, and a blessing for the first day of November. Beyond the delightful scent of opportunity is the joyful unity of feasts that commemorate all Saints who have attained heaven.
+Originating from the Catholic Church’s tradition, All Saints’ Day was first celebrated in the 4th century, honoring known saints and martyrs. As centuries passed, the Church expanded the commemoration to include all Saints, whether known or unknown, in unity.
+During the 8th century, Pope Gregory III formalized the celebration by dedicating an oratory in St. Peter's Basilica to all Saints. Ever since then, the feast has been observed to honor every saint, martyred or not, known or unknown, not only to commemorate them but also to remind us of the holy connection and spiritual communion between the living and the deceased.
+Around the 9th century, Pope Gregory IV extended the celebration to the entire Church, fixing it on the 1st of November. During this period, some churches in the British Isles also began holding commemorations for all Saints on that same date.
+The celebration extends to All Souls’ Day, which marks a day of remembrance for the faithfully departed, including relatives, friends, and even strangers who are no longer living. It gives us time to visit and pray for them, forming a two-day period of reflection and remembrance.
+All Saints’ Day is also known by various titles such as All Hallows’ Day, The Feast of All Saints, The Feast of All Hallows, Hallowmas, and The Solemnity of All Saints.
+Its significance in our faith symbolizes eternal life, spiritual purity, and the unity of the Church, merging sacred traditions with cultural practices, and deepening our spirituality, connections, and familial observance within ourselves and our nation.
+This day is not only about celebration or the sacred, sumptuous foods that come with it, but also a day of remembrance, reflection, and thanksgiving for all the holy men and women who lived virtuous lives.
+For their lives, we give honor and respect, not only for sharing their heavenly experiences and strengthening our spiritual bond, but also for their inspiring words, courageous faith, and divine wisdom granted by our Heavenly Father.
+They remained truthful, loyal, pure, and ever-solemn. May the Filipinos continue to be inspired by their example, blessed by their wisdom, and hold our hearts in truth.
+As St. Thomas Aquinas once said, “Love is to will the good of the other.”
+</p>`
+},
+{
    id: 75,
    title: "“Is this the end for us?”",
    date: "2025-10-31",
