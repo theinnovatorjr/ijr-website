@@ -11,13 +11,14 @@ const articles = [
   }*/
 {
    id: 78,
-   title: " SIGTALKAS 2025: Sigla, Talino, at Lakas ng Wikang Pambansa at Diwang Tamaraw",
+   title: "SIGTALKAS 2025: Sigla, Talino, at Lakas ng Wikang Pambansa at Diwang Tamaraw",
    date: "2025-11-4",
    image: "public/78_Feature.png",
    gfx: "Publication Material ni Jade Visperas",
    tags: ["Feature"],
    author: "ni Rhinely Briones",
-   content: `<p>Dumagsa ang tinatayang dalawang milyong katao sa mga sementeryo sa Metro Manila nitong Sabado, Nobyembre 1, sa unang araw ng paggunita ng Undas.
+   content: `<h4 class="hero-subtitle">“Ang wikang Filipino ay patuloy na mamahalin, tatak Tamaraw, pusong Pilipino.”</h4>
+   <p>Dumagsa ang tinatayang dalawang milyong katao sa mga sementeryo sa Metro Manila nitong Sabado, Nobyembre 1, sa unang araw ng paggunita ng Undas.
 Sa Manila North Cemetery (MNC) — tinaguriang isa sa mga pinakamatanda at pinakamalaking sementeryo sa buong Metro Manila.
 Umabot na sa halos 1.5 milyon ang bumisita pagsapit ng alas-5:00 ng hapon, ayon kay MNC Director Dandan Tan, at inaasahang madaragdagan pa sa mga susunod na araw.
 Tinatayang 120,000 naman ang nagtungo sa Manila South Cemetery, habang patuloy ang pagpasok ng mga tao hanggang gabi.
