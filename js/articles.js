@@ -10,6 +10,25 @@ const articles = [
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
 {
+   id: 78,
+   title: " SIGTALKAS 2025: Sigla, Talino, at Lakas ng Wikang Pambansa at Diwang Tamaraw",
+   date: "2025-11-4",
+   image: "public/78_Feature.png",
+   gfx: "Publication Material ni Jade Visperas",
+   tags: ["Feature"],
+   author: "ni Rhinely Briones",
+   content: `<p>Dumagsa ang tinatayang dalawang milyong katao sa mga sementeryo sa Metro Manila nitong Sabado, Nobyembre 1, sa unang araw ng paggunita ng Undas.
+Sa Manila North Cemetery (MNC) — tinaguriang isa sa mga pinakamatanda at pinakamalaking sementeryo sa buong Metro Manila.
+Umabot na sa halos 1.5 milyon ang bumisita pagsapit ng alas-5:00 ng hapon, ayon kay MNC Director Dandan Tan, at inaasahang madaragdagan pa sa mga susunod na araw.
+Tinatayang 120,000 naman ang nagtungo sa Manila South Cemetery, habang patuloy ang pagpasok ng mga tao hanggang gabi.
+Dinagsa rin ng mga bisita ang La Loma Cemetery sa Caloocan City at Loyola Memorial Park sa Marikina, na nagtala ng 11,000 katao noong Oktubre 31.
+Kabilang din sa mga pinuntahan ang Libingan ng mga Bayani, Heritage Memorial Park, Holy Cross Memorial Park, at iba pang sementeryo sa kalakhang Maynila.
+Idineklarang ‘Special Non-Working Holiday’ ni Pangulong Ferdinand Marcos ang Oktubre 31, kaya sinamatala ito ng libo-libong mga byahero na umuwi sa kani-kanilang mga probinsya. 
+Sa Bulacan at Pampanga, ilang sementeryo ang binaha, dahilan ng pangamba ng mga naiwang mga mahal sa buhay na masira ang puntod ng kanilang mga yumao.
+Nagbabala ang mga awtoridad laban sa leptospirosis matapos kumalat ang video ng mamamahayag na naglakad sa baha gamit lamang ang plastic bag bilang proteksyon.
+</p>`
+},
+{
    id: 77,
    title: "Undas 2025: Mga Sementeryo Dinagsa ng Milyun-milyong Pilipino",
    date: "2025-11-3",
