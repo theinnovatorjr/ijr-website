@@ -29,9 +29,9 @@ const articles = [
 },
 {
    id: 78,
-   title: "SIGTALKAS 2025: Bakit Mahalaga ang Wikang Pambansa sa Bawat Tamaraw?",
+   title: "SIGTALKAS 2025: Sa Wikang Filipino, Paano Nagkakaisa ang Diwang Tamaraw?",
    date: "2025-11-5",
-   image: "public/78_Sigtalkas.jpg",
+   image: "public/78_Feature.png",
    gfx: "Publication Material ni Jade Visperas",
    tags: ["Feature"],
    author: "ni Rhinely Briones",
