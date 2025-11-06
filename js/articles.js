@@ -10,6 +10,28 @@ const articles = [
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
 {
+   id: 80,
+   title: "Matsalove sa Lumilipad na Eroplanong WiCuh!",
+   date: "2025-11-6",
+   image: "public/80_Column.png",
+   gfx: "Publication Material ni May Santos",
+   tags: ["Opinion"],
+   author: "ni Matthew Piamonte",
+   content: `<p>	Zero days pa lang, g! Paldo na tayo lumipad sa eroplano cuh!
+	Habang zero days palang, ang Pilipinas ay umusbong na agad sa iba’t ibang makukulay na lengguwahe na tila’y pambalot ng dila ang atake—Iba’t ibang tono at pantig pero iisa ang kanyang mensahe. Papaloob nito, ang sari-saring barayti ng wika na nagpapatibay sa wikang Filipino sa kontemporaryong panahon na may halong aliw at biro. 
+	Sa kasaysayan, ang wika ay muntik nang malunod sa kamay ng iba’t ibang dayuhang wika: Espanyol, Ingles, at Hapones. Pilit nilang isinaksak sa ating baga ang kanilang mga lengguwahe. Ngunit nanatili tayong matatag kahit tayo’y naimpluwensiyahan nito—ang totoong kalayaan ang ating wikang nananahan sa ating mga dila at binigay sa iba’t ibang henerasyon—kagaya ko.
+	Ngayong kontemporaryong kapanahunan, mas naging makulay at masigla ang wikang Filipino. Hindi maiiwasan ang ating wika ay magkaroon ng halu-halong barayti na minsan ang isang mamamayan na buong buhay na nakatira sa bansa ay hindi na maintindihan. Nagsimula ito noong umusbong ang “Swardspeak” o Bekinese (lengguwahe ng mga bakla).
+	Bilang isang miyembro ng LGBTQ+ community, masasabi ko na isang “niche subculture” ito sapagkat puno ng iba’t ibang mga reperensya sa pop culture ang nakapaloob. Kagaya ng Julanis Morisette na galing sa mang-aawit na si Alanis Morissette, pero ang ibig sabihin ito ay umuulan. Isa pa ang Muriah Carey na galing naman sa pop singer na si Mariah Carey na ibig sabihin ay mumurahin ang isang bagay. Hindi ko mapigilan maaliw sa katabaan ng utak ng mga kapwa-lahi ko dahil parang “secret code” ang atake ng mga bakla—nakakaaliw pero nakakabighani.
+	NkAhkab1ghAni..?! :0
+	Sumunod naman sa landas nila ang mga Jejemon (pinaghalong “hehe” na ang konteksto ay galing sa espanyol at pokemon) noong 2000-2010s. Matamaan na taya pero mahilig ako gumamit nito. Sa laki at liit ng mga letra kasama ang numero, ang mensahe ko ay mabubuo—jeje ako. Kahit hindi ko ito naabutan sapagkat ako’y bata pa lamang, naabutan ko ang istilo ng mga jejemon. Sa baliktad na sumbrero na kasama ang jacket na nakatali sa bewang hanggang sa Vans na sapatos—ako ang hari ng Quezon City. Dito ko talaga napasok ang kasabihang “To be cringe is to be free.”
+	Humabol naman sa yapak nila ang mga Coño o conyo, ang tinaguriang pinaghihinalaang mapagpanggap na Taglish. Ang Igitters, isang pinalawak na subkultura ng beki language na may halong “niche modern TikTok memes” na pinangungunahan ni Sophie Prime—isang tiktok influencer. Ang panghuli ang kasumpa-sumpang Young Stunna Culture na may halong hip-hop culture, pop culture, at hypebeast sa kanilang bokabularyo.
+	Mainis man kung mainis, “jeje” man sa ating tingin, hinding-hindi ko maitatanggi ang malaking epekto ng mga sosyolek na ito sa ating wika. Ang kada pantig sa salita ay nagpapakita ng istorya sa ilalim ng mga taong gumagamit nito—ang kultura, kaganapan at ang sining na nakasiksik sa mga bokabularyong nakakaaliw. Bilang isang konserbatibong bansa—lalo na noong martial law— ginamit ng mga LGBTQ+ community ang sosyolek na ito bilang makipag-usap ng patago sa mga katulad namin na tinatawag na salot sa lipunan. Ang young stunna, kahit ang mga hiram na salita ay galing sa ibang bansa, laking danas sa kalsada ito. 
+	Dahil laking danas ito, makikita rin kung paano magsalita ang mga gumagamit nito. Ang kanilang layunin ay makahanap ng hustlin’ (hustle o trabaho) para sa kanilang mga ebu (babae o kasintahan). Pero kahit wala silang mga ebu, lagi pa rin nilang sinasabi na sila’y g na “lock in” sa kanilang mission na mapuno ang bulsa kasama ang mga day ones sa paglipad sa eroplano (nakatutok sa kanilang mga layunin matupad ang kanilang mga layunin na magkaroon ng isang mas magandang buhay kasama ang kanilang mga kaibigan at mahal sa buhay). Kahit banayad ang kanilang mensahe, malinaw na gising ang mga kabataan sa mga nangyayari. Alam nila ang problema sa gobyernong bumibiktima sa bansa—kung saan kailangan nilang mag-hustle para lang may makain.
+	Hindi basta-basta ang mga sosyolek na ito ay isang pang komedya na tanging gamit para magpatawa lamang, ito ay pagpapahayag ng sarili sa mga gustong pakiramdam na kabilang sa isang tiyak na kapantay na may parehong karanasan sa kanila. Ito rin ang ebidensya na ang ating wika ay tanging umusbong sa kontemporaryo at hindi natitinag ang iba’t ibang mga dayuhang wika. Ang wika ay hinding-hindi mamatay hangga’t may gumagamit pa at sila ang kasangkapan sa pampahaba ng buhay ng ating wika.
+	Dapat matsalove (salovemat) lang talaga tayo sa wika natin plar (pare), lakas mo eh ‘no? kakampi kita pero hindi ka dapat maging kalaban—ang wika ay ang ating day ones (homies) at ang ating identidad kaya ‘wag na ‘wag kang lilipat sa ibang hood (neighbourhood). Mas mainam na panatilihin natin at pangalagaan ito sapagkat ito ay nagpapayaman at nagpapalawak sa wikang Filipino, nagsisilbing salamin ng patuloy na pagbabago, at pag-unlad ng ating kultura. Hangga’t may tumatawa, nag-uusap, at nagmamahal gamit ang sarili nating wika, hindi kailanman ito lilipad palayo. Oh siya, bounce na ako g, sana tumatagos lahat ng dinada ko sa inyo.
+</p>`
+},
+{
    id: 79,
    title: "Baybayin: Ang Sinaunang Sulat ng Malayang Pilipino",
    date: "2025-11-6",
