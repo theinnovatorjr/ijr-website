@@ -10,6 +10,30 @@ const articles = [
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
 {
+   id: 81,
+   title: "Sheikh Karim'ul Makhdum Day: The Tree That Cannot Be Felled",
+   date: "2025-11-7",
+   image: "public/81_Feature.png",
+   gfx: "Publication Material by Nathan Cabatuando",
+   tags: ["Feature"],
+   author: "by Faye Habal",
+   content: `<p>The day has barely begun, yet someone's footsteps are already echoing through. 
+Dressed in modest clothing, kind eyes gently peeking. 
+Kneeling on the gentle marble, they begin their prayer. A beautiful and practiced one, made even more sacred by the place in which it is done. 
+The prayer carries a deeper warmth than usual, as if feeling especially close to Him.
+Today is a special day after all.
+More than six centuries ago under the scorching heat of the sun and the quiet whistle of the sea, a missionary stepped foot on the southernmost shores of our islands. His name, that would later shape history and be revered all over, was Sheikh Karim’ul Makhdum. Through his arrival a seed was planted—a seed that brought about hope for the people of Simunul, growing with each step he took in his time here. From that seed came about the third oldest religion in our country, its branches reaching all across the archipelago, its roots firmly anchored in the sacred soil of the south where it all began.
+On that same soil, the first Filipino mosque was raised, under the humble hands of Sheikh Makhdum himself. It was not some boastful monument that showed off riches, adorned with shiny gold or expensive rubies, it was a home built with a simple purpose: to house devotion. With its roof originally woven from coconut leaves, its pillars meticulously handcrafted from sturdy ipil wood, its only intention was to serve as a humble and welcoming abode. Yet, within its modest frame blossomed something priceless, the richest and most irreplaceable wealth of them all: Faith. 
+As history passed before its eyes, the building stood resolute, withstanding the test of time. From watching the rise and fall of rulers, to standing against colonizers, and even being destroyed by war at one point. One thing remained true throughout:
+It endured, just as they endured.  The temple's resilience has always mirrored the strength of the people it represents.  
+Its walls, though aged and worn still utter praises, the listened prayers of generations safely kept secret, never to be snitched by the temple walls. Its floors bear scuffs of countless faithful who have walked in and knelt upon them: seeking, hoping, worshipping—thousands, if not millions have found refuge within these sacred halls, and thousands more will.
+The marks it bears today do not diminish it, but rather, they serve as a depiction of the deep history of Islam in the Philippines, serving as beautiful scars that define them as the resilient and faithful force that they rightfully are, always have been, and always will be.
+The seed Sheikh Mahkdum planted that day has grown into a forever tree, immovable by both time and strife, nurtured by the spirits of those who refuse to let it fade. Its gentle shade has sheltered generations, warmed by the fire that was lit on that faithful day in Simunul. 
+Today, we honor not just the memory of Sheikh Karim’ul Makhdum, but of each and every Muslim Filipino. They stand as branches of a deep heritage that has enriched our history. Today is a celebration of their strength, their wisdom, and their deep seated faith. Let today be a reminder, that no matter the attempts to silence them, their voices can not and will never be silenced. The tree will never be felled.
+A meaningful and heartfelt Sheikh Karim’ul Makhdum Day to our Muslim brothers and sisters.
+</p>`
+},
+{
    id: 80,
    title: "Matsalove sa Lumilipad na Eroplanong WiCuh!",
    date: "2025-11-6",
