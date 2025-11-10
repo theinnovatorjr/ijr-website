@@ -10,6 +10,22 @@ const articles = [
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
 {
+   id: 82,
+   title: "DTI implements 60-day price freeze on basic goods nationwide ",
+   date: "2025-11-10",
+   image: "public/82_News.png",
+   gfx: "Publication Material by Nathan Cabatuando",
+   tags: ["News"],
+   author: "by John Mari Lenguaje",
+   content: `<p>Following President Ferdinand Marcos Jr.’s declaration of a state of national calamity, the Department of Trade and Industry (DTI) implemented a 60-day freeze on the prices of basic necessities nationwide on Friday, November 7.
+	According to DTI, the price freeze will remain for 60 days, or until lifted by the president, and with the coordination of key National Price Coordinating Council (NPPC)  implementing agencies, the consumers are protected during this critical period.
+   “The DTI is working round-the-clock with manufacturers, retailers, and distributors to ensure sufficient and steady stock of basic necessities and prime commodities,” DTI stated.
+   They also added that all DTI Regional and Provincial Offices are on heightened alert and mobilized to enforce compliance with the price freeze and maintain adequate supply nationwide.
+	Before this, with Typhoon Tino and Uwan expected to affect 10-12 regions, DTI had already launched a 60-day price freeze, but only on selected areas such as Guiuan in Eastern Samar, Cebu City, and Dinagat Islands.
+	Moreover, the Department of Health (DOH) also announced a price freeze nationwide on 146 drugs and medicines.</p>
+   `
+},
+{
    id: 81,
    title: "Sheikh Karim'ul Makhdum Day: The Tree That Cannot Be Felled",
    date: "2025-11-7",
