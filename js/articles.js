@@ -10,13 +10,31 @@ const articles = [
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
 {
+   id: 84,
+   title: "Ang Presyong Papuri",
+   date: "2025-11-12",
+   image: "public/84_Opinion.png",
+   gfx: "Publication Material at Dibuho ni Chaye Selisana",
+   tags: ["Opinion"],
+   author: "ni Kirsty Claro",
+   content: `<p>Hindi sukatan ng pag-unlad ang sanay sa pagdurusa. Tunay na progreso’y ginhawa, hindi pasensiya sa dusa.
+Tuwing may kalamidad, iisa ang paulit-ulit na linyang naririnig: “Matatag ang Pilipino.” Ngunit hanggang kailan ipagmamayabang ng lipunan ang katatagang ito, kung taon-taon ay pareho pa rin ang tanong: “Kailan kaya matatapos ito?” 
+Nananatili ang parehong eksena—mga pamilyang natutulog sa evacuation centers, mga batang nag-iigib ng tubig, at mga lider na nag-aabang ng kamera upang ipakita ang kanilang “malasakit.” Sa ganitong konteksto, ang katatagan ng mamamayan ay dapat na sandata upang makabangon, at hindi habambuhay na depensa laban sa kakulangan ng aksyon at kakapusan ng malasakit mula sa pamahalaan.
+Katatagan ng mga Pilipino ay isang kahanga-hangang katangian, ngunit sa harap ng katiwalian at kapabayaan, nagiging tabing lamang ito. Hindi dapat ipagmalaki ang kakayahang magtiis kung ang dahilan nito ay kakulangan sa sistema, naantalang tulong, at maling pamamahagi ng pondo. Ang tunay na lakas ng lipunan ay hindi nasusukat sa tibay ng mamamayan sa pagharap sa trahedya, kundi sa kakayahang humiling ng hustisya at panagutin ang mga nasa kapangyarihan.
+Ngayong buwan ay minamarkahan ang dekada mula nang manalasa si Typhoon Yolanda noong 2013, ngunit tila pareho pa rin ang ginagawang pagtrato ng pamahalaan sa mamamayan—walang malinaw na hustisya, walang sapat na tulong, at paulit-ulit ang pag-abuso sa pondo. Libo-libong pamilya pa rin ang nawalan ng tahanan at kabuhayan. Ang kahinaan ng sistema ay hindi haka-haka lamang; ito ay nasusukat sa tunay na buhay ng mga pamilyang naapektuhan ng trahedya. Batay sa ulat ng Commission on Audit (COA), bilyon-bilyong pisong pondo para sa mga biktima ang hindi nagamit nang maayos o nanatiling walang malinaw na paliwanag kung saan napunta. Kabilang dito ang 44,283 housing units na hindi natapos ng National Housing Authority (NHA), kung saan ilang proyekto ang naantala, nasuspinde, o tinerminate sa halagang P9.318 bilyon—mga pondong dapat sana’y nagsilbing tulay tungo sa pagbangon ng mga nasalanta. Sa pagdaan ng panahon, tila walang aral na natutunan, sapagkat sa pananalasa ni Typhoon Tino noong Nobyembre 4, 2025, muling naranasan ng mga Pilipino ang parehong trahedya. Sa Antique, iniulat ng Provincial Disaster Risk Reduction at Management Council (PDRRMC) na mahigit 46,443 pamilya o tinatayang 141,952 katao ang nawalan ng tirahan, habang sa Negros Occidental, 48,290 bahay ang nasira dahil sa matinding baha at malalakas na hangin.
+Halos walang pagbabago—ang mga sugat ng nakaraan ay patuloy na bumabalik, at ang pangakong pagbabago ay nananatiling nakatago. Ang tibay ng mamamayan ay ipinagmamalaki ng lipunan, ngunit maliwanag na ito ay hindi solusyon sa kapabayaan. Ang tunay na lakas ng bansa ay nasusukat sa kakayahan ng pamahalaan na protektahan ang mamamayan bago pa man dumating ang unos, at sa pagtutulungan ng lahat upang hindi na maulit ang parehong trahedya.
+Ang paulit-ulit na trahedya mula sa Yolanda hanggang sa Tino ay malinaw na nagpapatunay na ang “katatagang Pilipino” ay hindi dapat ipagmalaki bilang sapat na tugon sa kapabayaan. Ang katatagan ng mamamayan ay hindi solusyon sa kakulangan ng sistema at katiwalian; ito ay paalala ng kung gaano katagal nang binabalewala ang tunay na pangangailangan ng sambayanan. Ang tunay na lakas ng bansa ay nasusukat sa kakayahan ng pamahalaan at lipunan na protektahan ang mamamayan bago dumating ang unos, at panagutin ang mga dapat managot sa nakaraan. Hanggang sa mabago ang sistema, mananatiling biktima ang bawat Pilipino sa parehong trahedya, kahit gaano pa katatag ang kanyang puso.
+Dapat tapusin ang paulit-ulit na paghihirap ng mamamayan tuwing may kalamidad. Kinakailangan ang agarang pagpapalakas ng disaster preparedness, malinaw at transparent na pamamahagi ng pondo, pati na rin ang mabilis na implementasyon ng pabahay at relief programs. Ngunit higit sa lahat, dapat managot ang mga opisyal at sinumang may sala sa katiwalian at kapabayaan, dahil sila ang tunay na kumikitil sa sariling katatagan ng Pilipino. Hindi sapat na ipagmalaki lamang ang tibay ng mamamayan—karapatan nilang makabangon nang ligtas at may dignidad, at obligasyon ng gobyerno na wakasan ang kapabayaan at aktibong pinoprotektahan ang kanilang mamamayan.</p>
+   `
+},
+{
    id: 83,
    title: "Sa Ingay ng Mundo, May Munting Sulok ang Aking Kwento",
    date: "2025-11-11",
    image: "public/83_Feature.png",
    gfx: "Publication Material ni Andrea Gonzales",
    tags: ["Feature"],
-   author: "ni Hannah Cabornay",
+   author: "ni Hanna Cabornay",
    content: `<p>Unang pasok mo palang, malalanghap mo na sa simoy ng hangin ang amoy ng kape, lumang vinyl, at ang pabango ng mga pumapasyal na tila para silang nakiisa sa lugar sa mapoporma nilang kasuotan. Dito sa Cubao Expo, ang mga luma ay nagiging bago. Ang mga tindahan, parang museo.
 Sa Cubao Expo, walang may pakialam kung ang suot mo’y hindi branded—tipong galing ukay ukay lang. Ang mahalaga ay may kuwento ka, at may pagpapahalaga sa mga bagay kahit wala na sa uso. At doon ko napagtanto na baka ito ang kailangan ng kabataan ngayon: isang espasyo na pwede kang magpakatotoo, nang hindi namromroblema sa mga mapanghusgang matang nakatutok sa’yo.
 Sa gabi naman, ako’y dumadako sa isa ko pang tahanan kung saan ako ay nagtatago sa likod ng mga pelikula—ang Letterboxd. Ito ay nagsilbi ng diary dahil sa bawat review, doon ko nailalabas ang mga salitang hindi ko mabigkas sa totoong buhay. Dito rin ako nakakakita ng kabataang gaya ko— nagsusulat, nagmamahal, at naghahanap ng kahulugan sa bawat eksena ng pelikula.
