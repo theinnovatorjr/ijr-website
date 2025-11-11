@@ -10,8 +10,25 @@ const articles = [
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
 {
+   id: 83,
+   title: "Sa Ingay ng Mundo, May Munting Sulok ang Aking Kwento",
+   date: "2025-11-11",
+   image: "public/83_Feature.png",
+   gfx: "Publication Material ni Andrea Gonzales",
+   tags: ["Feature"],
+   author: "ni Hannah Cabornay",
+   content: `<p>Unang pasok mo palang, malalanghap mo na sa simoy ng hangin ang amoy ng kape, lumang vinyl, at ang pabango ng mga pumapasyal na tila para silang nakiisa sa lugar sa mapoporma nilang kasuotan. Dito sa Cubao Expo, ang mga luma ay nagiging bago. Ang mga tindahan, parang museo.
+Sa Cubao Expo, walang may pakialam kung ang suot mo’y hindi branded—tipong galing ukay ukay lang. Ang mahalaga ay may kuwento ka, at may pagpapahalaga sa mga bagay kahit wala na sa uso. At doon ko napagtanto na baka ito ang kailangan ng kabataan ngayon: isang espasyo na pwede kang magpakatotoo, nang hindi namromroblema sa mga mapanghusgang matang nakatutok sa’yo.
+Sa gabi naman, ako’y dumadako sa isa ko pang tahanan kung saan ako ay nagtatago sa likod ng mga pelikula—ang Letterboxd. Ito ay nagsilbi ng diary dahil sa bawat review, doon ko nailalabas ang mga salitang hindi ko mabigkas sa totoong buhay. Dito rin ako nakakakita ng kabataang gaya ko— nagsusulat, nagmamahal, at naghahanap ng kahulugan sa bawat eksena ng pelikula.
+May mga tao talagang hindi nababagay sa “mainstream” kung saan ang lahat ay laging trending, aeshetic o perfect. Pero pagdating sa mga alternatibo o underground, natutuhan kong okay lang na maiba, dahil ang sining ay hindi kailangang sikat para maging makabuluhan.
+Dito sa “alternative,” pinili ko ang sarili ko kahit hindi maintindihan ng karamihan. At sa “underground” nabigyan ng espasyo ang bawat kanta, pelikula, at tula—mga tinig na sabay-sabay sumisigaw ng “nandito ako.”
+Siguro ito ang ganda ng pagiging kabataan ngayon: kahit magulo at maingay ang mundo, marunong pa rin tayong makahanap ng katahimikan sa mga sulok kung saan puwedeng maging totoo. Minsan, ang sulok na iyon ay isang café sa Cubao Expo; minsan, isang pelikula sa Letterboxd; at minsan, isang ideya lang—na ang pagiging totoo ay ‘di kailanman nawawala sa uso.
+</p>
+   `
+},
+{
    id: 82,
-   title: "DTI implements 60-day price freeze on basic goods nationwide ",
+   title: "DTI implements 60-day price freeze on basic goods nationwide",
    date: "2025-11-10",
    image: "public/82_News.png",
    gfx: "Publication Material by Nathan Cabatuando",
