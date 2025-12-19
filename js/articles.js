@@ -10,6 +10,39 @@ const articles = [
     content: `<p>[First paragraph]</p><p>[Second paragraph]</p><p>[Third paragraph]</p>`
   }*/
 {
+   id: 85,
+   title: "World Choral Day: Many Voices, One Harmony",
+   date: "2025-12-14",
+   image: "public/85_world.png",
+   gfx: "Publication Material by Chaye Selisana",
+   tags: ["Feature"],
+   author: "by Justine Valeza",
+   content: `<p>’Tis once again the season of bright-colored lights, hot chocolate, and songs that touch the heart in the most endearing way. When the toll of the bells is heard and Filipino church singers perform the first few notes of “Carol of the Bells,” it signals the arrival of December, the final month of the year.
+This season also marks a significant commemorative event in the world of music and performing arts: World Choral Day.
+From triumphs and feats to misconceptions and setbacks, the world celebrates this significant musical event, marked by harmonious voices and forming a cornerstone of FEU Diliman Senior High School’s (SHS) cultural identity.
+Founded in 2010 by the International Federation for Choral Music (IFCM), World Choral Day was created to highlight the power of performing in a chorus as a universal language of harmony. The organization invites choirs from different cultures and backgrounds to perform, celebrating music as a bridge across differences. Beyond the performances, the event serves as a reminder that harmony is possible when voices choose to listen mindfully.
+World Choral Day is a day when choristers gather not in one place, but for one purpose. Whether through small community ensembles, church choirs, university choirs, or choirs built on friendship and shared interests, this annual event is dedicated to the unity of their bond and the peacefulness of their sound.
+<strong>FEU-D’s Chorale Musiklab</strong>
+This global movement finds a local voice within the school halls of FEU Diliman through Chorale Musiklab. Under the organization Musiklab, known for its discipline and musicality, Chorale Musiklab embodies the values that define World Choral Day: cooperation, harmony, and patience for one another. Also recognized for the tight-knit bond among its members, the organization has built a culture that transforms individual effort into a shared purpose, proving that togetherness is what gives music its soul.
+Behind the powerful harmonies, before the sound reaches the audience, it begins with the voices that turn sound into something felt.
+What exactly does World Choral Day mean to a chorister?
+For Matthew Gutierrez, one of Chorale Musiklab’s Tenor II voices, this international celebration feels like a birthday. “As a chorale singer, it is as if people shine a spotlight on you and what you do. Honestly, it feels a bit like having another birthday, but one you celebrate with your entire chorale family.”
+Gutierrez also explains that being a choir member involves strenuous rehearsals and the memorization of sheet music for individual parts. “Being part of a choir means countless hours of hard work, spending a lot of time learning and memorizing pieces, and trying to maintain notes and stay in harmony. So when World Choral Day comes around, it feels like all that effort is acknowledged,” he states.
+This response highlights how significant a role emotion plays in producing a full sound. With the pressure that comes from the uncertainty of executing a flawless piece, it is common for choristers to experience a rush of emotions.
+As Trisha Salvador, an alto voice of Chorale Musiklab, shares, “Masarap sa feeling and nakaka-pressure at the same time, pero in a good way. Kasi every voice counts talaga, and every member is very important para sa overall performance, parang family. Kung wala ang isa, wala rin ang lahat.”
+Gutierrez supports this statement by emphasizing the precision required to make a chorale work. “Since every note you sing affects the whole blend, you cannot just ‘wing it.’ You have to learn your lines, memorize your entries, and make sure you are confident with your part.”
+He reflects that rehearsals can feel overwhelming amid multiple harmonies, yet the shared effort is also comforting, as it fosters unity and collective creation. This balance between challenge and togetherness captures the true magic of a chorale.
+<strong>Challenging Common Misconceptions About Choral Music</strong>
+Within and outside of choir, mistakes are felt collectively, but so are triumphs. Through both failure and success, the audience will always form opinions, whether negative or positive.
+As a choir member, it is common to encounter a number of false or partially misleading statements about choral music. One frequent misconception is that it is “easy,” since members can simply back each other up.
+Gutierrez explains, “People think being in a choir means you stand in a semicircle, follow the conductor’s instructions, and sing. But there’s a lot more to it than just singing. You need to learn your parts and harmonize with other people.” He paints a picture that is easily imaginable even to those outside the choir. “Imagine singing one note while another person sings a different one. You either copy their notes or sing your own. Either way, it will mess up the whole piece.”
+Some misconceptions are even harsher. Salvador shares, “Kalimitan, ang naririnig ko sa comments ng mga tao is boring daw ang choral music and choral life, but it is actually very diverse and dynamic.”
+A unique perspective comes from Cyrus Lopez, assistant conductor of the Christ the King Youth Choir and current president of Chorale Musiklab. He highlights a lesser-known misconception that may affect how audiences view choral music. “One of the most common misconceptions about being part of a chorale group is that people think it requires advanced knowledge of sight-reading music sheets and a perfect voice. In reality, everyone is welcome to join a chorale group if they truly have the passion to sing, because you learn these skills throughout your chorale life.”
+Lopez adds that being confident in one’s voice helps reduce pressure during rehearsals. While some tension is inevitable, it eventually fades when singers remember that the ultimate goal of a chorale is to perform as one.
+Celebrated the day before the first Simbang Gabi, World Choral Day serves as a reminder that choral music remains one of the most breathtaking forms of performance art, built on bonds. In every harmony lies the power of voices that choose to blend rather than stand out. Long after the final note is sung, the understanding that unity begins with one’s willingness to seek balance endures. May this day remind us that patience and prudence will always go a long way.
+`
+},
+{
    id: 84,
    title: "Ang Presyong Papuri",
    date: "2025-11-12",
